@@ -218,6 +218,9 @@ Remember to update the repo name and owner name in the above table.
 | [ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation](https://openreview.net/pdf?id=vqniLmUDvj) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04324) | [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/ConsistI2V.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/ConsistI2V) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/ConsistI2V/) | TMLR |
 
 ### Spatial condition
+| Title | arXiv | Github| WebSite | Pub. & Date
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2407.21705) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.21705) | [![Star](https://img.shields.io/github/stars/{alibaba}/{Tora}.svg?style=social&label=Star)](https://github.com/alibaba/Tora) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ali-videoai.github.io/tora_video/) | CVPR 2025 |
 
 ### Camera parameter condition
 
