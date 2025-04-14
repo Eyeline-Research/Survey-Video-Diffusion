@@ -220,7 +220,8 @@ Remember to update the repo name and owner name in the above table.
 ### Spatial condition
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2407.21705) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.21705) | [![Star](https://img.shields.io/github/stars/{alibaba}/{Tora}.svg?style=social&label=Star)](https://github.com/alibaba/Tora) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ali-videoai.github.io/tora_video/) | CVPR 2025 |
+| [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2407.21705) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.21705) | [![Star](https://img.shields.io/github/stars/alibaba/Tora.svg?style=social&label=Star)](https://github.com/alibaba/Tora) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ali-videoai.github.io/tora_video/) | CVPR 2025 |
+| [Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling](https://arxiv.org/abs/2401.15977) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15977) | [![Star](https://img.shields.io/github/stars/G-U-N/Motion-I2V.svg?style=social&label=Star)](https://github.com/G-U-N/Motion-I2V) | [![Website](https://img.shields.io/badge/Website-9cf)](https://xiaoyushi97.github.io/Motion-I2V/) | SIGGRAPH 2024 |
 
 ### Camera parameter condition
 
