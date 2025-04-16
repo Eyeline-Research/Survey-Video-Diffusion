@@ -90,6 +90,24 @@
     - [Video diffusion for 4D generation](#video-diffusion-for-4d-generation)
 
 #### Table samples
+
+```text
+<style>
+table th:first-of-type {
+    width: 55%;
+}
+table th:nth-of-type(2) {
+    width: 15%;
+}
+table th:nth-of-type(3) {
+    width: 15%;
+}
+table th:nth-of-type(4) {
+    width: 15%;
+}
+</style>
+```
+
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/ConsisID/) | Nov., 2024
