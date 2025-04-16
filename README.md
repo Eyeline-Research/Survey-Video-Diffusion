@@ -3,13 +3,13 @@
 <p align="center">
   <div style="text-align:center; font-size: 18px;">
       <p>
-      <a href="https://yimuwangcs.github.io">Yimu Wang</a>, 
-      <a href="to be updated" >Xuye Liu,</a>
-      <a href="hto be updated" >Wei Pang,</a>
-      <a href="to be updated" >Li Ma,</a>
-      <a href="to be updated" >Shuai Yuan,</a>
-      <a href="to be updated" >Paul Debevec,</a>
-      <a href="to be updated" >Ning Yu</a>
+      <a href="yimu.wang@uwaterloo.ca">Yimu Wang$^*$</a>, 
+      <a href="x827liu@uwaterloo.ca" >Xuye Liu$^*$,</a>
+      <a href="w3pang@uwaterloo.ca" >Wei Pang$^*$,</a>
+      <a href="li.ma@scanlinevfx.com" >Li Ma$^*$,</a>
+      <a href="shuai@cs.duke.edu" >Shuai Yuan$^*$,</a>
+      <a href="debevec@netflix.com" >Paul Debevec,</a>
+      <a href="ning.yu@scanlinevfx.com" >Ning Yu$^\dagger$</a>
       </p>
   </div>
 </p>
@@ -105,7 +105,7 @@ To update
 
 #### Table samples
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/ConsisID/) | Nov., 2024
 | []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [![Star](https://img.shields.io/github/stars/{RepoOwnerName}/{RepoName}.svg?style=social&label=Star)]()|[![Website](https://img.shields.io/badge/Website-9cf)]() | ICLR 2024 |
 
@@ -186,7 +186,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://openreview.net/pdf?id=TX0OsLcaWf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/) | ICLR 2025 |
 | [ID-Animator: Zero-Shot Identity-Preserving Human Video Generation](https://arxiv.org/abs/2404.15275) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275) | [![Star](https://img.shields.io/github/stars/ID-Animator/ID-Animator.svg?style=social&label=Star)](https://github.com/ID-Animator/ID-Animator) | [![Website](https://img.shields.io/badge/Website-9cf)](https://id-animator.github.io/) | - |
 | [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04145) | [![Star](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen) | [![Website](https://img.shields.io/badge/Website-9cf)](https://i2vgen-xl.github.io/) | - |
@@ -219,7 +219,7 @@ Remember to update the repo name and owner name in the above table.
 
 ### Spatial condition
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2407.21705) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.21705) | [![Star](https://img.shields.io/github/stars/alibaba/Tora.svg?style=social&label=Star)](https://github.com/alibaba/Tora) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ali-videoai.github.io/tora_video/) | CVPR 2025 |
 | [Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling](https://arxiv.org/abs/2401.15977) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15977) | [![Star](https://img.shields.io/github/stars/G-U-N/Motion-I2V.svg?style=social&label=Star)](https://github.com/G-U-N/Motion-I2V) | [![Website](https://img.shields.io/badge/Website-9cf)](https://xiaoyushi97.github.io/Motion-I2V/) | SIGGRAPH 2024 |
 | [FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models](https://arxiv.org/abs/2406.16863) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16863) | [![Star](https://img.shields.io/github/stars/arthur-qiu/FreeTraj.svg?style=social&label=Star)](https://github.com/arthur-qiu/FreeTraj) | [![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeTraj.html) | - |
@@ -239,7 +239,7 @@ Remember to update the repo name and owner name in the above table.
 
 ### Camera parameter condition
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [CameraCtrl: Enabling Camera Control for Text-to-Video Generation](https://arxiv.org/abs/2404.02101) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02101) | [![Star](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl) | [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/projects-CameraCtrl/) | - |
 | [Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control](https://arxiv.org/abs/2405.17414) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17414) | [![Star](https://img.shields.io/github/stars/CollaborativeVideoDiffusion/CVD.svg?style=social&label=Star)](https://github.com/CollaborativeVideoDiffusion/CVD) | [![Website](https://img.shields.io/badge/Website-9cf)](https://collaborativevideodiffusion.github.io/) | NeurIPS 2024 |
 | [CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation](https://arxiv.org/abs/2406.02509) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.02509) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/CamCo/) | - |
@@ -254,7 +254,7 @@ Remember to update the repo name and owner name in the above table.
 
 ### Audio condition
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://arxiv.org/abs/2402.17485) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17485) | [![Star](https://img.shields.io/github/stars/HumanAIGC/EMO.svg?style=social&label=Star)](https://github.com/HumanAIGC/EMO) | [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/emote-portrait-alive/) | ECCV 2024 |
 | [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.microsoft.com/en-us/research/project/vasa-1/) | NeurIPS 2024 |
 | [Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video](https://arxiv.org/abs/2309.04814) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.04814) | [![Star](https://img.shields.io/github/stars/CVMI-Lab/Speech2Lip.svg?style=social&label=Star)](https://github.com/CVMI-Lab/Speech2Lip) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wxzwxzwxz.github.io/Speech2Lip/) | ICCV 2023 |
@@ -268,7 +268,7 @@ Remember to update the repo name and owner name in the above table.
 
 ### High-level video condition
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.11565) | [![Star](https://img.shields.io/github/stars/showlab/Tune-A-Video.svg?style=social&label=Star)](https://github.com/showlab/Tune-A-Video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tuneavideo.github.io/) | ICCV 2023 |
 | [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17599) | [![Star](https://img.shields.io/github/stars/baaivision/vid2vid-zero.svg?style=social&label=Star)](https://github.com/baaivision/vid2vid-zero) | - | IEEE Trans On Multimedia, 2023 |
 | [Towards Consistent Video Editing with Text-to-Image Diffusion Models](https://arxiv.org/abs/2305.17431) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17431) | - | - | NeurIPS 2023 |
@@ -325,7 +325,7 @@ Remember to update the repo name and owner name in the above table.
 ## Consistency
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://openreview.net/forum?id=Czsdv-S4-w9) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.10571) | [![Star](https://img.shields.io/github/stars/sihyun-yu/digan.svg?style=social&label=Star)](https://github.com/sihyun-yu/digan)|[![Website](https://img.shields.io/badge/Website-9cf)](https://sihyun.me/digan/) | ICLR 2022 |
 | [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2](https://openaccess.thecvf.com/content/CVPR2022/papers/Skorokhodov_StyleGAN-V_A_Continuous_Video_Generator_With_the_Price_Image_Quality_CVPR_2022_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.14683) | [![Star](https://img.shields.io/github/stars/universome/stylegan-v.svg?style=social&label=Star)](https://github.com/universome/stylegan-v)|[![Website](https://img.shields.io/badge/Website-9cf)](https://skor.sh/stylegan-v.html) | CVPR 2022 |
 | [Towards Smooth Video Composition](https://openreview.net/forum?id=W918Ora75q) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.07413) | [![Star](https://img.shields.io/github/stars/genforce/StyleSV.svg?style=social&label=Star)](https://github.com/genforce/StyleSV)|[![Website](https://img.shields.io/badge/Website-9cf)](https://genforce.github.io/StyleSV/) | ICLR 2023 |
@@ -356,7 +356,7 @@ Remember to update the repo name and owner name in the above table.
 ## Long video
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2](https://openaccess.thecvf.com/content/CVPR2022/papers/Skorokhodov_StyleGAN-V_A_Continuous_Video_Generator_With_the_Price_Image_Quality_CVPR_2022_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.14683) | - |[![Website](https://img.shields.io/badge/Website-9cf)](https://skor.sh/stylegan-v.html) | CVPR 2022 |
 | [Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770103.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03638) | [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/SongweiGe/TATS)|[![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html) | ECCV 2022 |
 | [Generating Long Videos of Dynamic Scenes](https://openreview.net/forum?id=VnAwNNJiwDb) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.03429) | [![Star](https://img.shields.io/github/stars/NVlabs/long-video-gan.svg?style=social&label=Star)](https://github.com/NVlabs/long-video-gan)|[![Website](https://img.shields.io/badge/Website-9cf)](https://www.timothybrooks.com/tech/long-video-gan/) | NeurIPS 2022 |
@@ -377,7 +377,7 @@ Remember to update the repo name and owner name in the above table.
 ### Training on 3D dataset
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [Sora Generates Videos with Stunning Geometrical Consistency](https://arxiv.org/abs/2402.17403) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17403) | [![Star](https://img.shields.io/github/stars/meteorshowers/Sora-Generates-Videos-with-Stunning-Geometrical-Consistency.svg?style=social&label=Star)](https://github.com/meteorshowers/Sora-Generates-Videos-with-Stunning-Geometrical-Consistency) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sora-geometrical-consistency.github.io/) | - |
 | [Stable video diffusion: Scaling latent video diffusion models to large datasets](https://arxiv.org/abs/2311.15127) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15127) | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models) | [![Website](https://img.shields.io/badge/Website-9cf)](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets) | - |
 | [Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items](https://ieeexplore.ieee.org/abstract/document/9811809) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.11918) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.google/blog/scanned-objects-by-google-research-a-dataset-of-3d-scanned-common-household-items/) | ICRA 2022 |
@@ -410,7 +410,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [MVDream: Multi-view Diffusion for 3D Generation](https://openreview.net/pdf?id=FUgrjq2pbB) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16512) | [![Star](https://img.shields.io/github/stars/bytedance/MVDream.svg?style=social&label=Star)](https://github.com/bytedance/MVDream) | [![Website](https://img.shields.io/badge/Website-9cf)](https://mv-dream.github.io/) | ICLR 2024 |
 | [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://proceedings.neurips.cc/paper_files/paper/2023/file/a0da690a47b2f52faa63f6fe054057b5-Paper-Conference.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01097) | [![Star](https://img.shields.io/github/stars/Tangshitao/MVDiffusion.svg?style=social&label=Star)](https://github.com/Tangshitao/MVDiffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://mvdiffusion.github.io/) | NeuIPS 2023 |
 | [Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion](https://arxiv.org/abs/2404.06429) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06429) | [![Star](https://img.shields.io/github/stars/magic-research/magic-boost.svg?style=social&label=Star)](https://github.com/magic-research/magic-boost) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-research.github.io/magic-boost/) | - |
@@ -438,7 +438,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [Sv3d: Novel multi-view synthesis and 3d generation from a single image using latent video diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00150.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12008) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv3d.github.io/) | ECCV 2024 |
 | [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models](https://openreview.net/pdf?id=VEHNTupyIU) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07452) | [![Star](https://img.shields.io/github/stars/yanghb22-fdu/Hi3D-Official.svg?style=social&label=Star)](https://github.com/yanghb22-fdu/Hi3D-Official) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/yanghb22-fdu/Hi3D-Official) | Multimedia 2024 |
 | [Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://dl.acm.org/doi/10.1145/3641519.3657481) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) | [![Star](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Star)](https://github.com/ysy31415/direct_a_video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/) | SIGGRAPH 2024 |
@@ -466,7 +466,7 @@ Remember to update the repo name and owner name in the above table.
 ### Inference-time tricks
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Kwak_ViVid-1-to-3_Novel_View_Synthesis_with_Video_Diffusion_Models_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01305) | [![Star](https://img.shields.io/github/stars/ubc-vision/vivid123.svg?style=social&label=Star)](https://github.com/ubc-vision/vivid123) | [![Website](https://img.shields.io/badge/Website-9cf)](https://jgkwak95.github.io/ViVid-1-to-3/) | CVPR 2024 |
 | [NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer](https://openreview.net/pdf?id=zDJf7fvdid) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15364) | [![Star](https://img.shields.io/github/stars/ZHU-Zhiyu/NVS_Solver.svg?style=social&label=Star)](https://github.com/ZHU-Zhiyu/NVS_Solver) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/ZHU-Zhiyu/NVS_Solver) | ICLR 2025 |
 | [Training-free Camera Control for Video Generation](https://openreview.net/pdf?id=KI1zldOFz9) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10126) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lifedecoder.github.io/CamTrol/) | ICLR 2025 |
@@ -485,7 +485,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06738) | [![Star](https://img.shields.io/github/stars/heheyas/V3D.svg?style=social&label=Star)](https://github.com/heheyas/V3D) | [![Website](https://img.shields.io/badge/Website-9cf)](https://heheyas.github.io/V3D/) | - |
 | [Sv3d: Novel multi-view synthesis and 3d generation from a single image using latent video diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00150.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12008) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv3d.github.io/) | ECCV 2024 |
 | [IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation](https://dl.acm.org/doi/10.5555/3692070.3693507) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.08682) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lukemelas.github.io/IM-3D/) | ICML 2024 |
@@ -499,7 +499,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 | Title | arXiv | Github| WebSite | Pub. & Date
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|
 | [Text-to-4d dynamic scene generation](https://proceedings.mlr.press/v202/singer23a/singer23a.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11280) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-video3d.github.io/) | ICML 2023 |
 | [4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://openaccess.thecvf.com/content/CVPR2024/papers/Bahmani_4D-fy_Text-to-4D_Generation_Using_Hybrid_Score_Distillation_Sampling_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17984) | [![Star](https://img.shields.io/github/stars/sherwinbahmani/4dfy.svg?style=social&label=Star)](https://github.com/sherwinbahmani/4dfy) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sherwinbahmani.github.io/4dfy/) | CVPR 2024 |
 | [Dream-in-4D: A Unified Approach for Text-and Image-Guided 4D Scene Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_A_Unified_Approach_for_Text-_and_Image-guided_4D_Scene_Generation_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16854) | [![Star](https://img.shields.io/github/stars/NVlabs/dream-in-4d.svg?style=social&label=Star)](https://github.com/NVlabs/dream-in-4d) | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/nxp/dream-in-4d/) | CVPR 2024 |
@@ -519,4 +519,8 @@ Remember to update the repo name and owner name in the above table.
 | [Vivid-ZOO: Multi-View Video Generation with Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2024/file/71c9eb0913e6c7fda3afd69c914b1a0c-Paper-Conference.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08659) | [![Star](https://img.shields.io/github/stars/hi-zhengcheng/vividzoo.svg?style=social&label=Star)](https://github.com/hi-zhengcheng/vividzoo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://hi-zhengcheng.github.io/vividzoo/) | NeurIPS 2024 |
 | [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://openreview.net/pdf?id=tJoS2d0Onf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17470) | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv4d.github.io/) | ICLR 2025 |
 | [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/abs/2411.18613) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18613) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cat-4d.github.io/) | - |
+
+
+
+## Acknowledgement
 
