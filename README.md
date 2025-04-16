@@ -3,36 +3,22 @@
 <p align="center">
   <div style="text-align:center; font-size: 18px;">
       <p>
-      <a href="yimu.wang@uwaterloo.ca">Yimu Wang$^*$</a>, 
-      <a href="x827liu@uwaterloo.ca" >Xuye Liu$^*$,</a>
-      <a href="w3pang@uwaterloo.ca" >Wei Pang$^*$,</a>
-      <a href="li.ma@scanlinevfx.com" >Li Ma$^*$,</a>
-      <a href="shuai@cs.duke.edu" >Shuai Yuan$^*$,</a>
-      <a href="debevec@netflix.com" >Paul Debevec,</a>
-      <a href="ning.yu@scanlinevfx.com" >Ning Yu$^\dagger$</a>
+      <a href="mailto:yimu.wang@uwaterloo.ca">Yimu Wang<sup>1,*</sup></a>, 
+      <a href="mailto:x827liu@uwaterloo.ca" >Xuye Liu<sup>1,*</sup>,</a>
+      <a href="mailto:w3pang@uwaterloo.ca" >Wei Pang<sup>1,*</sup>,</a>
+      <a href="mailto:li.ma@scanlinevfx.com" >Li Ma<sup>2,*</sup>,</a>
+      <a href="mailto:shuai@cs.duke.edu" >Shuai Yuan<sup>3,*</sup>,</a>
+      <a href="mailto:debevec@netflix.com" >Paul Debevec<sup>2,*</sup>,</a>
+      <a href="mailto:ning.yu@scanlinevfx.com" >Ning Yu<sup>2,†</sup></a>
       </p>
   </div>
 </p>
 
 <p align="center">
-(Yimu, Xuye, Wei, Li, and Shuai contributed equally. Ning is the corresponding author.)
+  <sup>1</sup>University of Waterloo, <sup>2</sup>Netflix Eyeline Studios, <sup>3</sup>Duke University, <sup>†</sup>Contributed Equally<br> <sup>†</sup>Corresponding Author
 </p>
-
 - [News] <span style="color:red;"> **Our survey is on Arxiv now.**</span>
 
-
-## Contact
-If you have any suggestions or find our work helpful, feel free to contact us
-
-Homepage: [Yimu Wang](https://yimuwangcs.github.io)
-
-Email: yimu.wang@uwaterloo.ca
-
-If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
-
-```
-To update
-```
 
 ## Table of Contents 
 
@@ -520,7 +506,12 @@ Remember to update the repo name and owner name in the above table.
 | [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://openreview.net/pdf?id=tJoS2d0Onf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17470) | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv4d.github.io/) | ICLR 2025 |
 | [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/abs/2411.18613) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18613) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cat-4d.github.io/) | - |
 
+## Citation
+If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
+```
+To update
+```
 
 ## Acknowledgement
 The format of this repo is built based on [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models).
