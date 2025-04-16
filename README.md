@@ -91,7 +91,7 @@
 
 #### Table samples
 
-```text
+
 <style>
 table th:first-of-type {
     width: 55%;
@@ -106,7 +106,6 @@ table th:nth-of-type(4) {
     width: 15%;
 }
 </style>
-```
 
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----|:-----:|:-----:|:-----:|:-----:|
