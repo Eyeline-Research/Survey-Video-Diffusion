@@ -523,4 +523,4 @@ Remember to update the repo name and owner name in the above table.
 
 
 ## Acknowledgement
-
+The format of this repo is built based on [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models).
