@@ -110,7 +110,7 @@ table th:nth-of-type(4) {
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024
-| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/WarranWeng/ART.V.svg?style=social&label=Star)](https://github.com/WarranWeng/ART.V)|[![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideo.github.io/) | ICLR 2024 |
+| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch.svg?style=social&label=Star)](https://github.com/ClementPinard/FlowNetPytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://drinkingcoder.github.io/publication/flowformer/) | ICLR 2024 |
 
 Remember to update the repo name and owner name in the above table.
 
@@ -154,12 +154,12 @@ Remember to update the repo name and owner name in the above table.
 
 | Title | arXiv | GitHub | WebSite | Pub. & Date |
 |:------|:-----:|:------:|:-------:|:------------|
-| [CCEdit: Creative and Controllable Video Editing via Diffusion Models](https://arxiv.org/abs/2401.12345) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12345) | - | - | 2024 |
+| [CCEdit: Creative and Controllable Video Editing via Diffusion Models](https://arxiv.org/abs/2401.12345) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12345) | - | - | arXiv 2024 |
 | [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08818) | [![Star](https://img.shields.io/github/stars/srpkdyy/VideoLDM.svg?style=social&label=Star)](https://github.com/srpkdyy/VideoLDM) | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) | CVPR 2023 |
-| [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.14792) | [![Star](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/make-a-video-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-video.github.io/) | 2022 |
-| [MagicVideo: Efficient Video Generation with Latent Diffusion Models](https://arxiv.org/abs/2211.11018) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11018) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideo.github.io/) | 2022 |
-| [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02303) | - | - | 2022 |
-| [Video Diffusion Models](https://arxiv.org/abs/2204.03458) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03458) | [![Star](https://img.shields.io/github/stars/lucidrains/video-diffusion-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/video-diffusion-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-diffusion.github.io/) | 2022 |
+| [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.14792) | [![Star](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/make-a-video-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-video.github.io/) | arXiv 2022 |
+| [MagicVideo: Efficient Video Generation with Latent Diffusion Models](https://arxiv.org/abs/2211.11018) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11018) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideo.github.io/) | arXiv 2022 |
+| [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02303) | - | - | arXiv 2022 |
+| [Video Diffusion Models](https://arxiv.org/abs/2204.03458) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03458) | [![Star](https://img.shields.io/github/stars/lucidrains/video-diffusion-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/video-diffusion-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-diffusion.github.io/) | arXiv 2022 |
 | [Cascaded Diffusion Models for High Fidelity Image Generation](https://arxiv.org/abs/2106.15282) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.15282) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cascaded-diffusion.github.io/) | JMLR 2022 |
 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752) | [![Star](https://img.shields.io/github/stars/CompVis/latent-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/latent-diffusion) | - | CVPR 2022 |
 
@@ -168,9 +168,9 @@ Remember to update the repo name and owner name in the above table.
 
 | Title | arXiv | GitHub | WebSite | Pub. & Date |
 |:------|:-----:|:------:|:-------:|:------------|
-| [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | arXiv Dec 2024 |
-| [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08151) | [![Star](https://img.shields.io/github/stars/desaixie/pa_vdm.svg?style=social&label=Star)](https://github.com/desaixie/pa_vdm) | [![Website](https://img.shields.io/badge/Website-9cf)](https://desaixie.github.io/pa-vdm/) | arXiv Oct 2024 |
-| [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05954) | [![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star)](https://github.com/jy0205/Pyramid-Flow) | [![Website](https://img.shields.io/badge/Website-9cf)](https://pyramid-flow.github.io/) | arXiv Oct 2024 |
+| [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | arXiv 2024 |
+| [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08151) | [![Star](https://img.shields.io/github/stars/desaixie/pa_vdm.svg?style=social&label=Star)](https://github.com/desaixie/pa_vdm) | [![Website](https://img.shields.io/badge/Website-9cf)](https://desaixie.github.io/pa-vdm/) | arXiv 2024 |
+| [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05954) | [![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star)](https://github.com/jy0205/Pyramid-Flow) | [![Website](https://img.shields.io/badge/Website-9cf)](https://pyramid-flow.github.io/) | arXiv 2024 |
 | [ART·V: Auto-Regressive Text-to-Video Generation with Diffusion Models](https://arxiv.org/abs/2311.18834) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18834) | [![Star](https://img.shields.io/github/stars/WarranWeng/ART.V.svg?style=social&label=Star)](https://github.com/WarranWeng/ART.V) | [![Website](https://img.shields.io/badge/Website-9cf)](https://warranweng.github.io/art.v/) | CVPR 2024 |
 
 
@@ -178,35 +178,162 @@ Remember to update the repo name and owner name in the above table.
 
 ### Denoising diffusion probabilistic models (DDPM)
 
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.09672) | [![Star](https://img.shields.io/github/stars/openai/improved-diffusion.svg?style=social&label=Star)](https://github.com/openai/improved-diffusion) | - | ICML 2021 |
+| [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.11239) | [![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star)](https://github.com/hojonathanho/diffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://hojonathanho.github.io/diffusion/) | NeurIPS 2020 |
+| [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1503.03585) | [![Star](https://img.shields.io/github/stars/paulffm/Deep-Unsupervised-Learning-Using-Nonequilibrium-Thermodynamics-Reimplementation.svg?style=social&label=Star)](https://github.com/paulffm/Deep-Unsupervised-Learning-Using-Nonequilibrium-Thermodynamics-Reimplementation) | - | ICML 2015 |
+
+
 ### Denoising diffusion implicit models (DDIM)
+
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | - | ICLR 2021 |
+
 
 ### Elucidated diffusion models (EDM)
 
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00364) | [![Star](https://img.shields.io/github/stars/NVlabs/edm.svg?style=social&label=Star)](https://github.com/NVlabs/edm) | - | NeurIPS 2022 |
+
 ### Flow matching and rectified flow
+
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.15687) | [![Star](https://img.shields.io/github/stars/lucidrains/voicebox-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/voicebox-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://voicebox.metademolab.com) | NeurIPS 2023 |
+| [Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion](https://arxiv.org/abs/2306.05708) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05708) | - | - | ICASSP 2023 |
+| [InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation](https://arxiv.org/abs/2309.06380) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.06380) | - | - | ICLR 2024 |
+| [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions](https://arxiv.org/abs/2303.08797) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08797) | [![Star](https://img.shields.io/github/stars/malbergo/stochastic-interpolants.svg?style=social&label=Star)](https://github.com/malbergo/stochastic-interpolants) | - | arXiv 2023 |
+| [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02747) | - | - | arXiv 2022 |
+
 
 ### Learning from feedback and reward models
 
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02617) | - | - | arXiv 2024 |
+| [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design](https://arxiv.org/abs/2410.05677) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05677) | [![Star](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Star)](https://github.com/Ji4chenLi/t2v-turbo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/) | arXiv 2024 |
+| [T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback](https://arxiv.org/abs/2405.18750) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18750) | [![Star](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Star)](https://github.com/Ji4chenLi/t2v-turbo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/) | NeurIPS 2024 |
+| [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12490) | [![Star](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen/blob/main/doc/InstructVideo.md) | [![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/) | CVPR 2024 |
+| [Click to Move: Controlling Video Generation with Sparse Motion](https://arxiv.org/abs/2108.08815) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.08815) | [![Star](https://img.shields.io/github/stars/PierfrancescoArdino/C2M.svg?style=social&label=Star)](https://github.com/PierfrancescoArdino/C2M) | - | ICCV 2021 |
+
+
+
 ### One-shot and few-shot learning
+
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Make an Image Move: Few-Shot Based Video Generation Guided by CLIP](https://dl.acm.org/doi/10.1007/978-3-031-78172-8_10) | - | - | - | ICPR 2025 |
+| [LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation](https://arxiv.org/abs/2310.10769) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10769) | [![Star](https://img.shields.io/github/stars/RQ-Wu/LAMP.svg?style=social&label=Star)](https://github.com/RQ-Wu/LAMP) | [![Website](https://img.shields.io/badge/Website-9cf)](https://rq-wu.github.io/projects/LAMP/) | Oct., 2023 |
+| [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.11565) | [![Star](https://img.shields.io/github/stars/showlab/Tune-A-Video.svg?style=social&label=Star)](https://github.com/showlab/Tune-A-Video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tuneavideo.github.io/) | ICCV 2023 |
+
+
 
 ### Training-free methods
 
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:-----------:|
+| [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/) | arXiv 2024 |
+| [VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models](https://arxiv.org/abs/2403.05438) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05438) | [![Star](https://img.shields.io/github/stars/YBYBZhang/VideoElevator.svg?style=social&label=Star)](https://github.com/YBYBZhang/VideoElevator) | [![Website](https://img.shields.io/badge/Website-9cf)](https://videoelevator.github.io/) | arXiv 2024 |
+| [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://arxiv.org/abs/2311.12631) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12631) | [![Star](https://img.shields.io/github/stars/jiaxilv/GPT4Motion.svg?style=social&label=Star)](https://github.com/jiaxilv/GPT4Motion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://gpt4motion.github.io/) | CVPR 2024 |
+| [Peekaboo: Interactive Video Generation via Masked-Diffusion](https://arxiv.org/abs/2312.07509) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.07509) | [![Star](https://img.shields.io/github/stars/microsoft/Peekaboo.svg?style=social&label=Star)](https://github.com/microsoft/Peekaboo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://yash-jain.com/projects/Peekaboo/) | CVPR 2024 |
+| [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13077) | [![Star](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Star)](https://github.com/YBYBZhang/ControlVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/) | ICLR 2024 |
+| [Magic-Me: Identity-Specific Video Customized Diffusion](https://arxiv.org/abs/2402.09368) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.09368) | [![Star](https://img.shields.io/github/stars/Zhen-Dong/Magic-Me.svg?style=social&label=Star)](https://github.com/Zhen-Dong/Magic-Me) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-me-webpage.github.io/) | arXiv 2024 |
+| [AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks](https://arxiv.org/abs/2403.14468) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14468) | [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/AnyV2V.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/AnyV2V) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/AnyV2V/) | arXiv 2024 |
+| [Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator](https://arxiv.org/abs/2309.14494) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14494) | [![Star](https://img.shields.io/github/stars/SooLab/Free-Bloom.svg?style=social&label=Star)](https://github.com/SooLab/Free-Bloom) | [![Website](https://img.shields.io/badge/Website-9cf)](https://neurips.cc/virtual/2023/poster/70404) | NeurIPS 2023 |
+| [FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://arxiv.org/abs/2303.09535) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09535) | [![Star](https://img.shields.io/github/stars/ChenyangQiQi/FateZero.svg?style=social&label=Star)](https://github.com/ChenyangQiQi/FateZero) | - | ICCV 2023 |
+| [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13439) | [![Star](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/Text2Video-Zero) | [![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/) | ICCV 2023 |
+
+
+
 ### Token learning
+
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/) | arXiv 2024 |
+| [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940) | - | - | arXiv 2023 |
+| [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.01618) | [![Star](https://img.shields.io/github/stars/rinongal/textual_inversion.svg?style=social&label=Star)](https://github.com/rinongal/textual_inversion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://textual-inversion.github.io/) | ICLR 2023 |
 
 ## Guidance
 
 ### Classifier guidance
 
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [CFG++: Manifold-Constrained Classifier Free Guidance for Diffusion Models](https://arxiv.org/abs/2406.08070) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08070) | [![Star](https://img.shields.io/github/stars/CFGpp-diffusion/CFGpp.svg?style=social&label=Star)](https://github.com/CFGpp-diffusion/CFGpp) | [![Website](https://img.shields.io/badge/Website-9cf)](https://cfgpp-diffusion.github.io/) | arXiv 2024 |
+| [LLM-grounded Video Diffusion Models](https://arxiv.org/abs/2309.17444) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444) | [![Star](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://llm-grounded-video-diffusion.github.io/) | ICLR 2024 |
+| [Exploring Compositional Visual Generation with Latent Classifier Guidance](https://arxiv.org/abs/2304.12536) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12536) | - | - | CVPRW 2023 |
+| [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.05233) | - | - | NeurIPS 2021 |
+
+
 ### Classifier-free guidance
+
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.12598) | [![Star](https://img.shields.io/github/stars/lucidrains/classifier-free-guidance-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/classifier-free-guidance-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)]() | 2022 |
 
 ## Diffusion model frameworks
 
 ### Pixel diffusion and latent diffusion
 
+| Title | arXiv | GitHub | Website | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03048) | [![Star](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Star)](https://github.com/Vchitect/Latte) | [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/latte_project/) | TMLR 2025 |
+| [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2309.15818) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15818) | [![Star](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Star)](https://github.com/showlab/Show-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) | arXiv 2023 |
+| [Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models](https://arxiv.org/abs/2305.10474) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10474) | - | - | ICCV 2023 |
+| [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06571) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary) | arXiv 2023 |
+| [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/abs/2303.13439) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13439) | - | - | ICCV 2023 |
+| [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08818) | [![Star](https://img.shields.io/github/stars/srpkdyy/VideoLDM.svg?style=social&label=Star)](https://github.com/srpkdyy/VideoLDM) | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) | CVPR 2023 |
+| [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11280) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-video3d.github.io/) | arXiv 2023 |
+
+
 ### Optical-flow-based diffusion models
+
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08331) | [![Star](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Star)](https://github.com/Eyeline-Research/Go-with-the-Flow) | [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/) | arXiv 2025 |
+| [Infinite-Resolution Integral Noise Warping for Diffusion Models](https://arxiv.org/abs/2402.12345) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.12345) | [![Star](https://img.shields.io/github/stars/yitongdeng-projects/infinite_resolution_integral_noise_warping_code.svg?style=social&label=Star)](https://github.com/yitongdeng-projects/infinite_resolution_integral_noise_warping_code)|[![Website](https://img.shields.io/badge/Website-9cf)](https://yitongdeng-projects.github.io/noise_warping_webpage/)  | arXiv 2024 |
+| [Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling](https://arxiv.org/abs/2401.12345) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12345) | [![Star](https://img.shields.io/github/stars/G-U-N/Motion-I2V.svg?style=social&label=Star)](https://github.com/G-U-N/Motion-I2V)|[![Website](https://img.shields.io/badge/Website-9cf)](https://xiaoyushi97.github.io/Motion-I2V/) | SIGGRAPH 2024 |
+| [A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://arxiv.org/abs/2305.12345) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.12345) | [![Star](https://img.shields.io/github/stars/hzwer/CVPR2023-DMVFN.svg?style=social&label=Star)](https://github.com/hzwer/CVPR2023-DMVFN)|[![Website](https://img.shields.io/badge/Website-9cf)](https://huxiaotaostasy.github.io/DMVFN/) | CVPR 2023 |
+| [FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://arxiv.org/abs/2303.01237) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01237) | [![Star](https://img.shields.io/github/stars/XiaoyuShi97/FlowFormerPlusPlus.svg?style=social&label=Star)](https://github.com/XiaoyuShi97/FlowFormerPlusPlus) | - | arXiv 2023 |
+| [FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/abs/2203.16194) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.16194) | [![Star](https://img.shields.io/github/stars/drinkingcoder/FlowFormer-Official.svg?style=social&label=Star)](https://github.com/drinkingcoder/FlowFormer-Official)|[![Website](https://img.shields.io/badge/Website-9cf)](https://drinkingcoder.github.io/publication/flowformer/) | arXiv 2022 |
+| [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.12039) | [![Star](https://img.shields.io/github/stars/princeton-vl/RAFT.svg?style=social&label=Star)](https://github.com/princeton-vl/RAFT) | - | ECCV 2020 |
+| [LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/abs/1805.07036) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1805.07036) | [![Star](https://img.shields.io/github/stars/twhui/LiteFlowNet.svg?style=social&label=Star)](https://github.com/twhui/LiteFlowNet) | - | CVPR 2018 |
+| [PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1709.02371) | [![Star](https://img.shields.io/github/stars/NVlabs/PWC-Net.svg?style=social&label=Star)](https://github.com/NVlabs/PWC-Net) | - | CVPR 2018 |
+| [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1612.01925) | [![Star](https://img.shields.io/github/stars/NVIDIA/flownet2-pytorch.svg?style=social&label=Star)](https://github.com/NVIDIA/flownet2-pytorch) | - | arXiv 2016 |
+| [FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1504.06852) | [![Star](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch.svg?style=social&label=Star)](https://github.com/ClementPinard/FlowNetPytorch) | - | ICCV 2015 |
+| [A Quantitative Analysis of Current Practices in Optical Flow Estimation and the Principles Behind Them](https://doi.org/10.1007/s11263-013-0644-x) | - | - | - | IJCV 2014 |
+| [Lucas/Kanade Meets Horn/Schunck: Combining Local and Global Optic Flow Methods](https://www.mia.uni-saarland.de/Publications/bruhn-ijcv05c.pdf) | - | - | - | IJCV 2005 |
+| [A Framework for the Robust Estimation of Optical Flow](https://www.cs.washington.edu/education/courses/576/03sp/readings/black93.pdf) | - | - | - | ICCV 1993 |
+| [Determining Optical Flow](https://people.csail.mit.edu/bkph/AIM/AIM-572.pdf) | - | - | - | AI Journal 1981 |
+
 
 ### Noise scheduling
 
+| Title | arXiv | GitHub | Website | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [Rethinking the Noise Schedule of Diffusion-Based Generative Models](https://openreview.net/forum?id=ylHLVq0psd) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=ylHLVq0psd) | - | - | ICLR 2024 |
+| [On the Importance of Noise Scheduling for Diffusion Models](https://arxiv.org/abs/2301.10972) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.10972) | - | - | arXiv 2023 |
+| [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/abs/2301.11093) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11093) | [![Star](https://img.shields.io/github/stars/faverogian/simpleDiffusion.svg?style=social&label=Star)](https://github.com/faverogian/simpleDiffusion) | - | ICML 2023 |
+| [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00364) | [![Star](https://img.shields.io/github/stars/NVlabs/edm.svg?style=social&label=Star)](https://github.com/NVlabs/edm) | - | NeurIPS 2022 |
+| [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.09672) | [![Star](https://img.shields.io/github/stars/openai/improved-diffusion.svg?style=social&label=Star)](https://github.com/openai/improved-diffusion) | - | ICML 2021 |
+| [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.11239) | [![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star)](https://github.com/hojonathanho/diffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://hojonathanho.github.io/diffusion/) | NeurIPS 2020 |
+| [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.13456) | [![Star](https://img.shields.io/github/stars/yang-song/score_sde.svg?style=social&label=Star)](https://github.com/yang-song/score_sde) | - | ICLR 2021 |
+
+
 ### Agent-based diffusion models
+
+| Title | arXiv | GitHub | WebSite | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------|
+| [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10076) | [![Star](https://img.shields.io/github/stars/Video-as-Agent/VideoAgent.svg?style=social&label=Star)](https://github.com/Video-as-Agent/VideoAgent) | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-as-agent.github.io/) | ICLR 2025 |
+| [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13248) | [![Star](https://img.shields.io/github/stars/lichao-sun/Mora.svg?style=social&label=Star)](https://github.com/lichao-sun/Mora) | - | arXiv 2024 |
+| [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.00352) | [![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)](https://github.com/geekan/MetaGPT) | - | arXiv 2023 |
+| [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08155) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/autogen/) | arXiv 2023 |
+| [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.15060) | [![Star](https://img.shields.io/github/stars/nv-tlabs/DriveGAN_code.svg?style=social&label=Star)](https://github.com/nv-tlabs/DriveGAN_code) | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/DriveGAN/) | CVPR 2021 |
+
+
 
 ## Architecture
 
