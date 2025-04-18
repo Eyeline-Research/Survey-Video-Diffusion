@@ -110,7 +110,7 @@ table th:nth-of-type(4) {
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024
-| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch.svg?style=social&label=Star)](https://github.com/ClementPinard/FlowNetPytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://drinkingcoder.github.io/publication/flowformer/) | ICLR 2024 |
+| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
 
 Remember to update the repo name and owner name in the above table.
 
@@ -339,11 +339,61 @@ Remember to update the repo name and owner name in the above table.
 
 ### UNet
 
+| Title | arXiv | GitHub | Website | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:-----------:|
+| [MoVideo: Motion-Aware Video Generation with Diffusion Models](https://arxiv.org/abs/2311.11325) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jingyunliang.github.io/MoVideo/) | ECCV 2025 |
+| [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06571) | - | - | arXiv 2023 |
+| [Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation](https://arxiv.org/abs/2304.08477) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08477) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://latent-shift.github.io/) | arXiv 2023 |
+| [MagicVideo: Efficient Video Generation with Latent Diffusion Models](https://arxiv.org/abs/2211.11018) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11018) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideo.github.io/) | arXiv 2022 |
+| [Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths](https://arxiv.org/abs/2211.13221) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.13221) | - | - | arXiv 2022 |
+| [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02303) | - | - | arXiv 2022 |
+| [Video Diffusion Models](https://arxiv.org/abs/2204.03458) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03458) | [![Star](https://img.shields.io/github/stars/lucidrains/video-diffusion-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/video-diffusion-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-diffusion.github.io/) | arXiv 2022 |
+| [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487) | - | - | NeurIPS 2022 |
+| [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752) | [![Star](https://img.shields.io/github/stars/CompVis/latent-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/latent-diffusion) | - | CVPR 2022 |
+| [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.11929) | - | - | ICLR 2021 |
+| [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1505.04597) | [![Star](https://img.shields.io/github/stars/Miltos-90/UNet_Biomedical_Image_Segmentation.svg?style=social&label=Star)](https://github.com/Miltos-90/UNet_Biomedical_Image_Segmentation) | - | MICCAI 2015 |
+
+
+
 ### Diffusion transformers
+
+| Title | arXiv | GitHub | Website | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:-----------:|
+| [Open-Sora: Democratizing Efficient Video Production for All](https://arxiv.org/abs/2412.20404) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20404) | [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora) | - | arXiv 2024 |
+| [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | arXiv 2024 |
+| [SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.08740) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://scalable-interpolant.github.io/) | arXiv 2024 |
+| [GenTron: Diffusion Transformers for Image and Video Generation](https://arxiv.org/abs/2312.04557) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04557) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.shoufachen.com/gentron_website/) | CVPR 2024 |
+| [VDT: General-purpose Video Diffusion Transformers via Mask Modeling](https://arxiv.org/abs/2305.13311) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13311) | [![Star](https://img.shields.io/github/stars/RERV/VDT.svg?style=social&label=Star)](https://github.com/RERV/VDT) | - | ICLR 2024 |
+| [Text2Performer: Text-Driven Human Video Generation](https://arxiv.org/abs/2304.08483) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08483) | [![Star](https://img.shields.io/github/stars/yumingj/Text2Performer.svg?style=social&label=Star)](https://github.com/yumingj/Text2Performer) | - | ICCV 2023 |
+| [Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09748) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.wpeebles.com/DiT) | ICCV 2023 |
+| [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2205.15868) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.15868) | - | - | ICLR 2023 |
+| [VersVideo: Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation](https://openreview.net/forum?id=K9sVJ17zvB) | - | - | - | ICLR 2023 |
+| [ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.15691) | - | - | ICCV 2021 |
+
+
+
 
 ### VAE for latent space compression
 
+| Title | arXiv | Github | Website | Pub. & Date |
+|:------|:-----:|:------:|:-------:|:------------:|
+| [HunyuanVideo: A Systematic Framework for Large Video Generative Models](https://arxiv.org/abs/2405.18991) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991) | - | - | arXiv 2025 |
+| [SkyReels V1: Human-Centric Video Foundation Model](https://github.com/SkyworkAI/SkyReels-V1) | - | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/SkyworkAI/SkyReels-V1) | arXiv 2025 |
+| [Magic 1-for-1: Generating One Minute Video Clips Within One Minute](https://arxiv.org/abs/2405.20279) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-141.github.io/Magic-141/) | arXiv 2025 |
+| [Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2405.20279) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279) | [![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V.svg?style=social&label=Star)](https://github.com/stepfun-ai/Step-Video-T2V) | [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/stepfun-ai/stepvideo-t2v) | arXiv 2025 |
+| [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03048) | [![Star](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Star)](https://github.com/Vchitect/Latte) | [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/latte_project/) | TMLR 2025 |
+| [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models Without Specific Tuning](https://arxiv.org/abs/2307.04725) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04725) | [![Star](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Star)](https://github.com/guoyww/AnimateDiff) | [![Website](https://img.shields.io/badge/Website-9cf)](https://animatediff.github.io/) | ICLR 2024 |
+| [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14125) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.google/blog/videopoet-a-large-language-model-for-zero-shot-video-generation/) | PMLR 2024 |
+| [LaVie: Latent Video Encoding for Diffusion Models](https://arxiv.org/abs/2309.04512) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.04512) | [![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)](https://github.com/Vchitect/LaVie) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/LaVie-project/) | IJCV 2024 |
+| [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2309.15818) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15818) | [![Star](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Star)](https://github.com/showlab/Show-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) | arXiv 2023 |
+| [VideoCrafter1: Open Diffusion Models for High-Quality Video Generation](https://arxiv.org/abs/2310.19512) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512) | [![Star](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter1/) | arXiv 2023 |
+| [Make-A-Video: Text-to-Video Generation Without Text-Video Data](https://arxiv.org/abs/2209.14792) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.14792) | [![Star](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/make-a-video-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://makeavideo.studio/) | ICLR 2023 |
+| [Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions](https://arxiv.org/abs/2203.09481) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2023 |
+| [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.11239) | [![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star)](https://github.com/hojonathanho/diffusion) | - | NeurIPS 2020 |
+
+
 ### Text encoder
+
 
 # Implementation
 
