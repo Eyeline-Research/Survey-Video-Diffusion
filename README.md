@@ -87,8 +87,8 @@
   - [3D and 4D generation](#3d-and-4d-generation)
     - [Video diffusion for 3D generation](#video-diffusion-for-3d-generation)
     - [Video diffusion for 4D generation](#video-diffusion-for-4d-generation)
-  - [Citation](#citation)
-  - [Acknowledgement](#acknowledgement)
+- [Citation](#citation)
+- [Acknowledgement](#acknowledgement)
 
 #### Table samples
 
@@ -789,15 +789,41 @@ Remember to update the repo name and owner name in the above table.
 
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----|:-----:|:-----:|:-----:|:-----:|
-| [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024
-| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
-
+| [Deep video representation learning: a survey](https://link.springer.com/article/10.1007/s11042-023-17815-3) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.06574) | - | - | Multimedia Tools and Applications 2024 |
+| [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Text_Is_MASS_Modeling_as_Stochastic_Embedding_for_Text-Video_Retrieval_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17998) | [![Star](https://img.shields.io/github/stars/patrick-0817/T-MASS-text-video-retrieval.svg?style=social&label=Star)](https://github.com/patrick-0817/T-MASS-text-video-retrieval) | - | CVPR 2024 |
+| [T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition](https://openreview.net/forum?id=0G8AXwtmy2) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19734) | [![Star](https://img.shields.io/github/stars/nctu-eva-lab/VHD11K.svg?style=social&label=Star)](https://github.com/nctu-eva-lab/VHD11K) | - | NeurIPS 2024 |
+| [M²Chat: Empowering VLM for Multimodal LLM Interleaved Text-Image Generation](https://arxiv.org/abs/2311.17963) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17963) | [![Star](https://img.shields.io/github/stars/litwellchi/M2Chat.svg?style=social&label=Star)](https://github.com/litwellchi/M2Chat) | [Project Page](https://mattie-e.github.io/M2Chat.github.io/) | Arxiv 2024 |
+| [Cali-NCE: Boosting Cross-modal Video Representation Learning with Calibrated Alignment](https://openaccess.thecvf.com/content/CVPR2023W/WFM/papers/Zhao_Cali-NCE_Boosting_Cross-Modal_Video_Representation_Learning_With_Calibrated_Alignment_CVPRW_2023_paper.pdf) | - | [![Star](https://img.shields.io/github/stars/nanxuanzhao/Cali-NCE.svg?style=social&label=Star)](https://github.com/nanxuanzhao/Cali-NCE) | - | CVPR Workshops 2023 |
+| [HiTeA: Hierarchical Temporal-Aware Video-Language Pre-training](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_HiTeA_Hierarchical_Temporal-Aware_Video-Language_Pre-training_ICCV_2023_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.14546) | - | - | ICCV 2023 |
+| [Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/papers/Pan_Retrieving-to-Answer_Zero-Shot_Video_Question_Answering_with_Frozen_Large_Language_Models_ICCVW_2023_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.11732) | - | - | ICCV Workshop 2023 |
+| [DeCap: Decoding CLIP Latents for Zero-Shot Captioning via Text-Only Training](https://openreview.net/forum?id=Lt8bMlhiwx2) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.03032) | [![Star](https://img.shields.io/github/stars/dhg-wei/DeCap.vg?style=social&label=Star)](https://github.com/dhg-wei/DeCap) | - | ICLR 2023 |
+| [Visual Consensus Modeling for Video-Text Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/19891) | - | - | - | AAAI 2022 |
+| [End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.14821) | [![Star](https://img.shields.io/github/stars/mttr2021/MTTR.svg?style=social&label=Star)](https://github.com/mttr2021/MTTR) | - | CVPR 2022 |
+| [Language as Queries for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Language_As_Queries_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2201.00487) | [![Star](https://img.shields.io/github/stars/wjn922/ReferFormer.svg?style=social&label=Star)](https://github.com/wjn922/ReferFormer) | - | CVPR 2022 |
+| [Align and Prompt: Video-and-Language Pre-training with Entity Prompts](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Align_and_Prompt_Video-and-Language_Pre-Training_With_Entity_Prompts_CVPR_2022_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.09583) | [![Star](https://img.shields.io/github/stars/salesforce/ALPRO.svg?style=social&label=Star)](https://github.com/salesforce/ALPRO) | - | CVPR 2022 |
+| [Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf) | - | - | - | CVPR 2022 |
+| [CenterCLIP: Token Clustering for Efficient Text-Video Retrieval](https://dl.acm.org/doi/10.1145/3477495.3531950) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.00823) | [![Star](https://img.shields.io/github/stars/mzhaoshuai/CenterCLIP.svg?style=social&label=Star)](https://github.com/mzhaoshuai/CenterCLIP) | - | SIGIR 2022 |
+| [GL-RG: Global-Local Representation Granularity for Video Captioning](https://ylqi.github.io/publications/GL-RG-IJCAI-22.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.10706) | [![Star](https://img.shields.io/github/stars/ylqi/GL-RG.svg?style=social&label=Star)](https://github.com/ylqi/GL-RG) | - | IJCAI 2022 |
+| [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.06183) | [![Star](https://img.shields.io/github/stars/jayleicn/ClipBERT.svg?style=social&label=Star)](https://github.com/jayleicn/ClipBERT) | - | CVPR 2021 |
+| [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.00020) | [![Star](https://img.shields.io/github/stars/openai/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) | - | ICML 2021 |
+| [Multi-modal Transformer for Video Retrieval](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2007.10639) | [![Star](https://img.shields.io/github/stars/gabeur/mmt.svg?style=social&label=Star)](https://github.com/gabeur/mmt) | [![Website](https://img.shields.io/badge/Website-9cf)](https://thoth.inrialpes.fr/research/MMT/) | ECCV 2020 |
+| [URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) | -| [![Star](https://img.shields.io/github/stars/skynbe/Refer-Youtube-VOS.svg?style=social&label=Star)](https://github.com/skynbe/Refer-Youtube-VOS) | - | ECCV 2020 |
+| [Asymmetric 3D Convolutional Neural Networks for action recognition](https://www.sciencedirect.com/science/article/pii/S0031320318302632) | - | - | - | Pattern Recognition 2019 |
+| [Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks](https://ieeexplore.ieee.org/document/8226767) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1707.05740) | - | - | TIP 2018 |
+| [Deep Sequential Context Networks for Action Prediction](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kong_Deep_Sequential_Context_CVPR_2017_paper.pdf) | - | - | - | CVPR 2017 |
+| [Attention Is All You Need][https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf] | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1706.03762) | - | - | NeurIPS 2017 |
+| [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1512.03385) | [![Star](https://img.shields.io/github/stars/KaimingHe/deep-residual-networks.svg?style=social&label=Star)](https://github.com/KaimingHe/deep-residual-networks) | - | CVPR 2016 |
+| [Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1607.07043) | [![Star](https://img.shields.io/github/stars/kinect59/Spatio-Temporal-LSTM.svg?style=social&label=Star)](https://github.com/kinect59/Spatio-Temporal-LSTM) | - | ECCV 2016 |
+| [Learning Spatiotemporal Features with 3D Convolutional Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7410867) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1412.0767) | - | - | ICCV 2015 |
+| [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | - | - | - | NeurIPS 2012 |
+| [Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf) | - | - | - | Neural Comput., 1997 |
+| [Neural Networks and Physical Systems with Emergent Collective Computational Abilities](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) | - | - | - | PNAS, 1982 |
 
 ## Video retrieval
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| Title | arXiv | Github| WebSite | Pub. & Date |
 |:-----|:-----:|:-----:|:-----:|:-----:|
-| [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024
+| [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024 |
 | []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
 
 
@@ -811,9 +837,6 @@ Remember to update the repo name and owner name in the above table.
 | [Video Question Answering via Hierarchical Dual-Level Attention Network Learning](https://dl.acm.org/doi/10.1145/3123266.3123427) | - | - | - | ACM MM 2017 |
 | [TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1704.04497) |[![Star](https://img.shields.io/github/stars/YunseokJANG/tgif-qa.svg?style=social&label=Star)](https://github.com/YunseokJANG/tgif-qa)| - | CVPR 2017 |
 | [Leveraging Video Descriptions to Learn Video Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/11238) | [![arXiv](https://arxiv.org/abs/1611.04021)](https://arxiv.org/abs/1704.04497) | - | - | AAAI 2017 |
-
-| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://longvideobench.github.io/) | ICLR 2024 |
-
 
 ## 3D and 4D generation
 
@@ -856,12 +879,12 @@ Remember to update the repo name and owner name in the above table.
 | [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/abs/2411.18613) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18613) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cat-4d.github.io/) | - |
 | [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://openreview.net/pdf?id=tJoS2d0Onf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17470) | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv4d.github.io/) | ICLR 2025 |
 
-## Citation
+# Citation
 If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
 ```
 To update
 ```
 
-## Acknowledgement
+# Acknowledgement
 The format of this repo is built based on [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models).
