@@ -8,13 +8,13 @@
       <a href="mailto:w3pang@uwaterloo.ca" >Wei Pang<sup>1,*</sup>,</a>
       <a href="mailto:li.ma@scanlinevfx.com" >Li Ma<sup>2,*</sup>,</a>
       <a href="mailto:shuai@cs.duke.edu" >Shuai Yuan<sup>3,*</sup>,</a>
-      <a href="mailto:debevec@netflix.com" >Paul Debevec<sup>2,*</sup>,</a>
+      <a href="mailto:debevec@netflix.com" >Paul Debevec<sup>2</sup>,</a>
       <a href="mailto:ning.yu@scanlinevfx.com" >Ning Yu<sup>2,†</sup></a>
       </p>
   </div>
 </p>
 <p align="center">
-  <sup>1</sup>University of Waterloo, <sup>2</sup>Netflix Eyeline Studios, <sup>3</sup>Duke University <br> <sup>†</sup>Contributed Equally, <sup>†</sup>Corresponding Author
+  <sup>1</sup>University of Waterloo, <sup>2</sup>Netflix Eyeline Studios, <sup>3</sup>Duke University <br> <sup>*</sup>Contributed Equally, <sup>†</sup>Corresponding Author
 </p>
 
 - [News] <span style="color:red;"> **Our survey is on Arxiv now.**</span>
@@ -23,7 +23,6 @@
 ## Table of Contents 
 
 - [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](#survey-of-video-diffusion-models-foundations-implementations-and-applications)
-  - [Contact](#contact)
   - [Table of Contents](#table-of-contents)
       - [Table samples](#table-samples)
 - [Foundation](#foundation)
@@ -88,6 +87,8 @@
   - [3D and 4D generation](#3d-and-4d-generation)
     - [Video diffusion for 3D generation](#video-diffusion-for-3d-generation)
     - [Video diffusion for 4D generation](#video-diffusion-for-4d-generation)
+  - [Citation](#citation)
+  - [Acknowledgement](#acknowledgement)
 
 #### Table samples
 
@@ -786,9 +787,33 @@ Remember to update the repo name and owner name in the above table.
 
 ## Video representation learning
 
+| Title | arXiv | Github| WebSite | Pub. & Date
+|:-----|:-----:|:-----:|:-----:|:-----:|
+| [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024
+| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
+
+
 ## Video retrieval
 
+| Title | arXiv | Github| WebSite | Pub. & Date
+|:-----|:-----:|:-----:|:-----:|:-----:|
+| [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024
+| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
+
+
 ## Video QA and captioning
+
+| Title | arXiv | Github| WebSite | Pub. & Date
+|:-----|:-----:|:-----:|:-----:|:-----:|
+| [LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding](https://openreview.net/forum?id=3G1ZDXOI4f) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15754) |[![Star](https://img.shields.io/github/stars/longvideobench/LongVideoBench.svg?style=social&label=Star)](https://github.com/longvideobench/LongVideoBench)| [![Website](https://img.shields.io/badge/Website-9cf)](https://longvideobench.github.io/) | NeurIPS 2024 |
+| [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01225) |[![Star](https://img.shields.io/github/stars/VRU-NExT/VideoQA.svg?style=social&label=Star)](https://github.com/VRU-NExT/VideoQA)| - | EMNLP 2022 |
+| [Video Question Answering via Gradually Refined Attention over Appearance and Motion](https://dl.acm.org/doi/10.1145/3123266.3123427) | - |[![Star](https://img.shields.io/github/stars/xudejing/video-question-answering.svg?style=social&label=Star)](https://github.com/xudejing/video-question-answering)| - | ACM MM 2017 |
+| [Video Question Answering via Hierarchical Dual-Level Attention Network Learning](https://dl.acm.org/doi/10.1145/3123266.3123427) | - | - | - | ACM MM 2017 |
+| [TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1704.04497) |[![Star](https://img.shields.io/github/stars/YunseokJANG/tgif-qa.svg?style=social&label=Star)](https://github.com/YunseokJANG/tgif-qa)| - | CVPR 2017 |
+| [Leveraging Video Descriptions to Learn Video Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/11238) | [![arXiv](https://arxiv.org/abs/1611.04021)](https://arxiv.org/abs/1704.04497) | - | - | AAAI 2017 |
+
+| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://longvideobench.github.io/) | ICLR 2024 |
+
 
 ## 3D and 4D generation
 
