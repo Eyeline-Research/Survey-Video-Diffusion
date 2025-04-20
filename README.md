@@ -397,7 +397,7 @@ Remember to update the repo name and owner name in the above table.
 ### Image condition
 
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13744) | [![Star](https://img.shields.io/github/stars/nihaomiao/CVPR23_LFDM.svg?style=social&label=Star)](https://github.com/nihaomiao/CVPR23_LFDM) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nihaomiao/CVPR23_LFDM) | CVPR 2023 |
 | [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://proceedings.neurips.cc/paper_files/paper/2023/file/180f6184a3458fa19c28c5483bc61877-Paper-Conference.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02018) | [![Star](https://img.shields.io/github/stars/ali-vilab/videocomposer.svg?style=social&label=Star)](https://github.com/ali-vilab/videocomposer) | [![Website](https://img.shields.io/badge/Website-9cf)](https://videocomposer.github.io/) | NIPS 2023 |
@@ -430,7 +430,7 @@ Remember to update the repo name and owner name in the above table.
 | [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://openreview.net/pdf?id=LQzN6TRFg9) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06072) | [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/THUDM/CogVideo) | ICLR 2025 |
 
 ### Spatial condition
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/) | SIGGRAPH 2025 |
 | [ObjCtrl-2.5D: Training-free Object Control with Camera Poses](https://arxiv.org/abs/2412.07721) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07721) | [![Star](https://img.shields.io/github/stars/wzhouxiff/ObjCtrl-2.5D.svg?style=social&label=Star)](https://github.com/wzhouxiff/ObjCtrl-2.5D) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/ObjCtrl-2.5D/) | arXiv 2024 |
@@ -450,7 +450,7 @@ Remember to update the repo name and owner name in the above table.
 | [DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory](https://arxiv.org/abs/2308.08089) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08089) | [![Star](https://img.shields.io/github/stars/chaojie/ComfyUI-DragNUWA.svg?style=social&label=Star)](https://github.com/chaojie/ComfyUI-DragNUWA) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.microsoft.com/en-us/research/project/dragnuwa/) | arXiv 2023 |
 
 ### Camera parameter condition
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/) | SIGGRAPH 2025 |
 | [3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation](https://arxiv.org/abs/2412.07759) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07759) | [![Star](https://img.shields.io/github/stars/KwaiVGI/3DTrajMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/3DTrajMaster) | [![Website](https://img.shields.io/badge/Website-9cf)](https://fuxiao0719.github.io/projects/3dtrajmaster/) | ICLR 2025 |
@@ -465,7 +465,7 @@ Remember to update the repo name and owner name in the above table.
 | [MotionCtrl: A Unified and Flexible Motion Controller for Video Generation](https://arxiv.org/abs/2312.03641) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03641) | [![Star](https://img.shields.io/github/stars/TencentARC/MotionCtrl.svg?style=social&label=Star)](https://github.com/TencentARC/MotionCtrl) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/MotionCtrl/) | SIGGRAPH 2024 |
 
 ### Audio condition
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://arxiv.org/abs/2402.17485) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17485) | [![Star](https://img.shields.io/github/stars/HumanAIGC/EMO.svg?style=social&label=Star)](https://github.com/HumanAIGC/EMO) | [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/emote-portrait-alive/) | ECCV 2024 |
 | [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.microsoft.com/en-us/research/project/vasa-1/) | NeurIPS 2024 |
@@ -479,7 +479,7 @@ Remember to update the repo name and owner name in the above table.
 | [CCVS: Context-aware Controllable Video Synthesis](https://arxiv.org/abs/2107.08037) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.08037) | [![Star](https://img.shields.io/github/stars/16lemoing/ccvs.svg?style=social&label=Star)](https://github.com/16lemoing/ccvs) | [![Website](https://img.shields.io/badge/Website-9cf)](https://16lemoing.github.io/ccvs/) | NeurIPS 2021 |
 
 ### High-level video condition
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.11565) | [![Star](https://img.shields.io/github/stars/showlab/Tune-A-Video.svg?style=social&label=Star)](https://github.com/showlab/Tune-A-Video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tuneavideo.github.io/) | ICCV 2023 |
 | [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17599) | [![Star](https://img.shields.io/github/stars/baaivision/vid2vid-zero.svg?style=social&label=Star)](https://github.com/baaivision/vid2vid-zero) | - | IEEE Trans On Multimedia, 2023 |
@@ -529,7 +529,7 @@ Remember to update the repo name and owner name in the above table.
 | [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://arxiv.org/abs/2312.05856) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05856) | [![Star](https://img.shields.io/github/stars/STEM-Inv/STEM-Inv.svg?style=social&label=Star)](https://github.com/STEM-Inv/STEM-Inv) | [![Website](https://img.shields.io/badge/Website-9cf)](https://stem-inv.github.io/page/) | CVPR 2024 |
 
 ### Other conditions
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18964) | [![Star](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Star)](https://github.com/stevenlsw/physgen) | [![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/) | ECCV 2024 |
 | [MotionCraft: Physics-based Zero-Shot Video Generation](https://arxiv.org/abs/2405.13557) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.13557) | [![Star](https://img.shields.io/github/stars/cure-lab/MotionCraft.svg?style=social&label=Star)](https://github.com/cure-lab/MotionCraft) | [![Website](https://img.shields.io/badge/Website-9cf)](https://cure-lab.github.io/MotionCraft/) | AAAI 2025 |
@@ -542,13 +542,13 @@ Remember to update the repo name and owner name in the above table.
 
 ### Video denoising and deblurring
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Video restoration based on deep learning: a comprehensive survey](https://link.springer.com/content/pdf/10.1007/s10462-022-10302-5.pdf) |  |  | | Oct., 2022 |
 
 
 ### Video inpainting
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/33203/35358) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12035) | [![Star](https://img.shields.io/github/stars/zibojia/COCOCO.svg?style=social&label=Star)](https://github.com/zibojia/COCOCO)|[![Website](https://img.shields.io/badge/Website-9cf)](https://cococozibojia.github.io/) | AAAI 2025 |
 | [UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts](https://arxiv.org/abs/2412.06340) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06340) | | | Dec., 2024 |
@@ -565,7 +565,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 ### Video interpolation and extrapolation/prediction
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Video interpolation with diffusion models](https://openaccess.thecvf.com/content/CVPR2024/papers/Jain_Video_Interpolation_with_Diffusion_Models_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01203) | |[![Website](https://img.shields.io/badge/Website-9cf)](https://vidim-interpolation.github.io/) | CVPR 2024|
 | [ToonCrafter: Generative Cartoon Interpolation](https://dl.acm.org/doi/pdf/10.1145/3687761) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17933) | [![Star](https://img.shields.io/github/stars/Doubiiu/ToonCrafter.svg?style=social&label=Star)](https://github.com/Doubiiu/ToonCrafter)|[![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/ToonCrafter/) | TOG 2024 |
@@ -577,7 +577,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 ### Video super-resolution
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [FreeScale: High-Resolution Video Generation with Cascaded Diffusion Models](https://arxiv.org/pdf/2412.09626?) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.09626?) | [![Star](https://img.shields.io/github/stars/ali-vilab/FreeScale.svg?style=social&label=Star)](https://github.com/ali-vilab/FreeScale)|[![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeScale.html) | Dec., 2024 |
 | [Make a cheap scaling: A self-cascade diffusion model for higher-resolution adaptation](https://arxiv.org/pdf/2402.10491) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2402.10491) | [![Star](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade/)|[![Website](https://img.shields.io/badge/Website-9cf)](https://guolanqing.github.io/Self-Cascade/) | ECCV 2024 |
@@ -590,7 +590,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 ### Combining multiple video enhancement tasks
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts](https://arxiv.org/abs/2412.06340) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06340) | | | Dec., 2024 |
 | [VEnhancer: Generative Space-Time Enhancement for Video Generation](https://arxiv.org/abs/2407.07667) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07667) | [![Star](https://img.shields.io/github/stars/Vchitect/VEnhancer.svg?style=social&label=Star)](https://github.com/Vchitect/VEnhancer)|[![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VEnhancer-project/) | Jul., 2024 |
@@ -599,7 +599,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 ## Personalization
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance](https://ieeexplore.ieee.org/document/10887583) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03018) | [![Star](https://img.shields.io/github/stars/anonymous0769/DreamVideo.svg?style=social&label=Star)](https://github.com/anonymous0769/DreamVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://anonymous0769.github.io/DreamVideo/) | ICASSP 2025 |
 | [PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation](https://arxiv.org/abs/2411.17048) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17048) | [![Star](https://img.shields.io/github/stars/EchoPluto/PersonalVideo.svg?style=social&label=Star)](https://github.com/EchoPluto/PersonalVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://personalvideo.github.io/) | - |
@@ -617,7 +617,7 @@ Remember to update the repo name and owner name in the above table.
 
 ## Consistency
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://openreview.net/forum?id=Czsdv-S4-w9) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.10571) | [![Star](https://img.shields.io/github/stars/sihyun-yu/digan.svg?style=social&label=Star)](https://github.com/sihyun-yu/digan)|[![Website](https://img.shields.io/badge/Website-9cf)](https://sihyun.me/digan/) | ICLR 2022 |
 | [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2](https://openaccess.thecvf.com/content/CVPR2022/papers/Skorokhodov_StyleGAN-V_A_Continuous_Video_Generator_With_the_Price_Image_Quality_CVPR_2022_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.14683) | [![Star](https://img.shields.io/github/stars/universome/stylegan-v.svg?style=social&label=Star)](https://github.com/universome/stylegan-v)|[![Website](https://img.shields.io/badge/Website-9cf)](https://skor.sh/stylegan-v.html) | CVPR 2022 |
@@ -651,7 +651,7 @@ Remember to update the repo name and owner name in the above table.
 
 ## Long video
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2](https://openaccess.thecvf.com/content/CVPR2022/papers/Skorokhodov_StyleGAN-V_A_Continuous_Video_Generator_With_the_Price_Image_Quality_CVPR_2022_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.14683) | - |[![Website](https://img.shields.io/badge/Website-9cf)](https://skor.sh/stylegan-v.html) | CVPR 2022 |
 | [Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770103.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03638) | [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/SongweiGe/TATS)|[![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html) | ECCV 2022 |
@@ -672,7 +672,7 @@ Remember to update the repo name and owner name in the above table.
 
 ### Training on 3D dataset
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Stereo magnification: Learning view synthesis using multiplane images](https://dl.acm.org/doi/pdf/10.1145/3197517.3201323) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1805.09817) | [![Star](https://img.shields.io/github/stars/google/stereo-magnification.svg?style=social&label=Star)](https://github.com/google/stereo-magnification) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tinghuiz.github.io/projects/mpi/) | SIGGRAPH 2018 |
 | [Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.00512) | [![Star](https://img.shields.io/github/stars/facebookresearch/co3d.svg?style=social&label=Star)](https://github.com/facebookresearch/co3d) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/facebookresearch/co3d) | ICCV 2021 |
@@ -705,7 +705,7 @@ Remember to update the repo name and owner name in the above table.
 
 
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_ConsistNet_Enforcing_3D_Consistency_for_Multi-view_Images_Diffusion_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10343) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jiayuyang.github.io/Consist_Net/) | CVPR 2024 |
 | [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://proceedings.neurips.cc/paper_files/paper/2023/file/a0da690a47b2f52faa63f6fe054057b5-Paper-Conference.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01097) | [![Star](https://img.shields.io/github/stars/Tangshitao/MVDiffusion.svg?style=social&label=Star)](https://github.com/Tangshitao/MVDiffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://mvdiffusion.github.io/) | NeuIPS 2023 |
@@ -733,7 +733,7 @@ Remember to update the repo name and owner name in the above table.
 ### Camera conditioning
 
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Sv3d: Novel multi-view synthesis and 3d generation from a single image using latent video diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00150.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12008) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv3d.github.io/) | ECCV 2024 |
 | [Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://dl.acm.org/doi/10.1145/3641519.3657481) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) | [![Star](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Star)](https://github.com/ysy31415/direct_a_video) | [![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/) | SIGGRAPH 2024 |
@@ -761,7 +761,7 @@ Remember to update the repo name and owner name in the above table.
 
 ### Inference-time tricks
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Kwak_ViVid-1-to-3_Novel_View_Synthesis_with_Video_Diffusion_Models_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01305) | [![Star](https://img.shields.io/github/stars/ubc-vision/vivid123.svg?style=social&label=Star)](https://github.com/ubc-vision/vivid123) | [![Website](https://img.shields.io/badge/Website-9cf)](https://jgkwak95.github.io/ViVid-1-to-3/) | CVPR 2024 |
 | [Training-free Camera Control for Video Generation](https://openreview.net/pdf?id=KI1zldOFz9) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10126) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lifedecoder.github.io/CamTrol/) | ICLR 2025 |
@@ -771,7 +771,7 @@ Remember to update the repo name and owner name in the above table.
 
 ## Video representation learning
 
-| Title | arXiv | Github| WebSite | Pub. & Date | 
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> | 
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Deep video representation learning: a survey](https://link.springer.com/article/10.1007/s11042-023-17815-3) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.06574) | - | - | Multimedia Tools and Applications 2024 |
 | [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Text_Is_MASS_Modeling_as_Stochastic_Embedding_for_Text-Video_Retrieval_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17998) | [![Star](https://img.shields.io/github/stars/patrick-0817/T-MASS-text-video-retrieval.svg?style=social&label=Star)](https://github.com/patrick-0817/T-MASS-text-video-retrieval) | - | CVPR 2024 |
@@ -805,7 +805,7 @@ Remember to update the repo name and owner name in the above table.
 
 ## Video retrieval
 
-| Title | arXiv | Github| WebSite | Pub. & Date |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Towards Retrieval Augmented Generation over Large Video Libraries](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613524) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14938) | - | - | IEEE HSI 2024 |
 | [Video Enriched Retrieval Augmented Generation Using Aligned Video Captions](https://arxiv.org/abs/2405.17706) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17706) | [![Star](https://img.shields.io/github/stars/kdr/videoRAG-mrr2024.svg?style=social&label=Star)](https://github.com/kdr/videoRAG-mrr2024) | - | 	SIGIR Workshop 2024 |
@@ -848,21 +848,21 @@ Remember to update the repo name and owner name in the above table.
 
 ## Video QA and captioning
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding](https://openreview.net/forum?id=3G1ZDXOI4f) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15754) |[![Star](https://img.shields.io/github/stars/longvideobench/LongVideoBench.svg?style=social&label=Star)](https://github.com/longvideobench/LongVideoBench)| [![Website](https://img.shields.io/badge/Website-9cf)](https://longvideobench.github.io/) | NeurIPS 2024 |
 | [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01225) |[![Star](https://img.shields.io/github/stars/VRU-NExT/VideoQA.svg?style=social&label=Star)](https://github.com/VRU-NExT/VideoQA)| - | EMNLP 2022 |
 | [Video Question Answering via Gradually Refined Attention over Appearance and Motion](https://dl.acm.org/doi/10.1145/3123266.3123427) | - |[![Star](https://img.shields.io/github/stars/xudejing/video-question-answering.svg?style=social&label=Star)](https://github.com/xudejing/video-question-answering)| - | ACM MM 2017 |
 | [Video Question Answering via Hierarchical Dual-Level Attention Network Learning](https://dl.acm.org/doi/10.1145/3123266.3123427) | - | - | - | ACM MM 2017 |
 | [TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1704.04497) |[![Star](https://img.shields.io/github/stars/YunseokJANG/tgif-qa.svg?style=social&label=Star)](https://github.com/YunseokJANG/tgif-qa)| - | CVPR 2017 |
-| [Leveraging Video Descriptions to Learn Video Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/11238) | [![arXiv](https://arxiv.org/abs/1611.04021)](https://arxiv.org/abs/1704.04497) | - | - | AAAI 2017 |
+| [Leveraging Video Descriptions to Learn Video Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/11238) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1704.04497) | - | - | AAAI 2017 |
 
 ## 3D and 4D generation
 
 ### Video diffusion for 3D generation
 
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation](https://dl.acm.org/doi/10.5555/3692070.3693507) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.08682) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lukemelas.github.io/IM-3D/) | ICML 2024 |
 | [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06738) | [![Star](https://img.shields.io/github/stars/heheyas/V3D.svg?style=social&label=Star)](https://github.com/heheyas/V3D) | [![Website](https://img.shields.io/badge/Website-9cf)](https://heheyas.github.io/V3D/) | - |
@@ -876,7 +876,7 @@ Remember to update the repo name and owner name in the above table.
 ### Video diffusion for 4D generation
 
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date property</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Text-to-4d dynamic scene generation](https://proceedings.mlr.press/v202/singer23a/singer23a.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11280) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-video3d.github.io/) | ICML 2023 |
 | [Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Ling_Align_Your_Gaussians_Text-to-4D_with_Dynamic_3D_Gaussians_and_Composed_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13763) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/) | CVPR 2024 |
