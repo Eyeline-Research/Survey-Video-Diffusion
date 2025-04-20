@@ -787,7 +787,7 @@ Remember to update the repo name and owner name in the above table.
 
 ## Video representation learning
 
-| Title | arXiv | Github| WebSite | Pub. & Date
+| Title | arXiv | Github| WebSite | Pub. & Date | 
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [Deep video representation learning: a survey](https://link.springer.com/article/10.1007/s11042-023-17815-3) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.06574) | - | - | Multimedia Tools and Applications 2024 |
 | [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Text_Is_MASS_Modeling_as_Stochastic_Embedding_for_Text-Video_Retrieval_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17998) | [![Star](https://img.shields.io/github/stars/patrick-0817/T-MASS-text-video-retrieval.svg?style=social&label=Star)](https://github.com/patrick-0817/T-MASS-text-video-retrieval) | - | CVPR 2024 |
