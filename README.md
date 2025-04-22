@@ -160,27 +160,17 @@ Remember to update the repo name and owner name in the above table.
 
 ## Learning foundation
 
-### Denoising diffusion probabilistic models (DDPM)
+### Classic denoising diffusion models
 
 | <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+| [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00364) | [![Star](https://img.shields.io/github/stars/NVlabs/edm.svg?style=social&label=Star)](https://github.com/NVlabs/edm) | - | NeurIPS 2022 |
+| [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | - | ICLR 2021 |
 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.09672) | [![Star](https://img.shields.io/github/stars/openai/improved-diffusion.svg?style=social&label=Star)](https://github.com/openai/improved-diffusion) | - | ICML 2021 |
 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.11239) | [![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star)](https://github.com/hojonathanho/diffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://hojonathanho.github.io/diffusion/) | NeurIPS 2020 |
 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1503.03585) | [![Star](https://img.shields.io/github/stars/paulffm/Deep-Unsupervised-Learning-Using-Nonequilibrium-Thermodynamics-Reimplementation.svg?style=social&label=Star)](https://github.com/paulffm/Deep-Unsupervised-Learning-Using-Nonequilibrium-Thermodynamics-Reimplementation) | - | ICML 2015 |
 
 
-### Denoising diffusion implicit models (DDIM)
-
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-| [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | - | ICLR 2021 |
-
-
-### Elucidated diffusion models (EDM)
-
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-| [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00364) | [![Star](https://img.shields.io/github/stars/NVlabs/edm.svg?style=social&label=Star)](https://github.com/NVlabs/edm) | - | NeurIPS 2022 |
 
 ### Flow matching and rectified flow
 
@@ -437,7 +427,7 @@ Remember to update the repo name and owner name in the above table.
 | [Mochi 1](https://mochi1ai.com/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08275) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://mochi1ai.com/) | arXiv 2024 |
 | [EasyAnimate](https://github.com/aigc-apps/EasyAnimate) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15919) | [![Star](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/aigc-apps/EasyAnimate/blob/main/README.md) | arXiv 2024 |
 | [Vidu](https://www.vidu.com/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/) | 2024 |
-| [VideoCrafter2](https://arxiv.org/abs/2401.09047) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) | [![Star](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter2.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter2) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter2/) | arXiv 2024 |
+| [VideoCrafter2](https://arxiv.org/abs/2401.09047) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) | [![Star](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)]https://github.com/AILab-CVC/VideoCrafter | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter2/) | arXiv 2024 |
 | [VideoCrafter1](https://arxiv.org/abs/2310.19512) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512) | [![Star](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter/) | arXiv 2023 |
 | [Mira](https://mira-space.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.19343) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/) | arXiv 2024 |
 | [Hailuo AI](https://hailuoai.video/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) | 2024 |
