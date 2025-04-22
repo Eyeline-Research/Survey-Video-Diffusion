@@ -389,6 +389,48 @@ Remember to update the repo name and owner name in the above table.
 
 ## Industry solutions
 
+| Title | arXiv | Github | WebSite | Pub. & Date |
+|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+| [Magic-1-For-1](https://github.com/Open-Magic-Video/Magic-1-For-1) | - | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | - | 2025 |
+| [SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1) | - | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | - | 2025 |
+| [Step-Video-T2V](https://arxiv.org/abs/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | - | 2025 |
+| [HunyuanVideo](https://arxiv.org/abs/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | - | 2025 |
+| [Sora](https://openai.com/sora) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://openai.com/sora) | 2024 |
+| [STIV](https://github.com/rhymes-ai/Allegro) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | [![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)](https://github.com/rhymes-ai/Allegro) | - | 2024 |
+| [LTX-Video](https://arxiv.org/abs/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | - | 2024 |
+| [Allegro](https://github.com/rhymes-ai/Allegro) | - | [![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)](https://github.com/rhymes-ai/Allegro) | - | 2024 |
+| [Jimeng](https://jimeng.jianying.com/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jimeng.jianying.com/) | 2024 |
+| [Mochi 1](https://mochi1ai.com/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://mochi1ai.com/) | 2024 |
+| [EasyAnimate](https://github.com/aigc-apps/EasyAnimate) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | [![Star](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate) | - | 2024 |
+| [Vidu](https://www.vidu.com/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/) | 2024 |
+| [VideoCrafter2](https://arxiv.org/abs/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | - | 2024 |
+| [VideoCrafter1](https://arxiv.org/abs/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | - | 2023 |
+| [Mira](https://mira-space.github.io/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/) | - |
+| [Hailuo AI](https://hailuoai.video/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) | - |
+| [Lumiere](https://lumiere-video.github.io/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumiere-video.github.io/) | - |
+| [VideoPoet](https://sites.research.google/videopoet/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.research.google/videopoet/) | - |
+| [LumaAI Ray 2](https://lumalabs.ai/ray) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/ray) | - |
+| [LumaAI Dream Machine](https://lumalabs.ai/dream-machine) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine) | - |
+| [Veo-2](https://deepmind.google/technologies/veo/veo-2/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/technologies/veo/veo-2/) | - |
+| [Veo-1](https://deepmind.google/technologies/veo/veo-1/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/technologies/veo/veo-1/) | - |
+| [Nova Real](https://docs.aws.amazon.com/ai/responsible-ai/nova-reel/overview.html) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://docs.aws.amazon.com/ai/responsible-ai/nova-reel/overview.html) | - |
+| [Wanx 2.1](https://tongyi.aliyun.com/wanxiang/videoCreation) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi.aliyun.com/wanxiang/videoCreation) | - |
+| [Kling](https://www.klingai.com/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.klingai.com/) | - |
+| [Show-1](https://showlab.github.io/Show-1/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) | - |
+| [MovieGen](https://ai.meta.com/research/movie-gen/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/research/movie-gen/) | - |
+| [Pika](https://pika.art) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://pika.art) | - |
+| [Vchitect-2.0](https://vchitect.intern-ai.org.cn/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | - |
+| [Optis](https://github.com/Vchitect/Optix) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | [![Star](https://img.shields.io/github/stars/Vchitect/Optix.svg?style=social&label=Star)](https://github.com/Vchitect/Optix) | - | 2023 |
+| [VLogger](https://github.com/Vchitect/Vlogger) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | [![Star](https://img.shields.io/github/stars/Vchitect/Vlogger.svg?style=social&label=Star)](https://github.com/Vchitect/Vlogger) | - | 2023 |
+| [Seine](https://github.com/Vchitect/SEINE) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | [![Star](https://img.shields.io/github/stars/Vchitect/SEINE.svg?style=social&label=Star)](https://github.com/Vchitect/SEINE) | - | 2023 |
+| [Lavie](https://github.com/Vchitect/LaVie) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | [![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)](https://github.com/Vchitect/LaVie) | - | 2023 |
+| [MiracleVision](https://www.miraclevision.com/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.miraclevision.com/) | - |
+| [Phenaki](https://phenaki.video/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
+| [W.A.L.T](https://arxiv.org/abs/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | - | - |
+| [Imagen video](https://imagen.research.google/video/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/video/) | 2022 |
+| [GEN-3 Alpha](https://runwayml.com/research/introducing-gen-3-alpha) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-gen-3-alpha) | - |
+| [GEN-2](https://runwayml.com/research/gen-2/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-2/) | - |
+| [GEN-1](https://runwayml.com/research/gen-1/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1/) | - |
 # Applications
 
 ## Conditions
