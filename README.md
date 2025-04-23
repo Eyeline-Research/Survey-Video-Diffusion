@@ -105,7 +105,7 @@
 - [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](#survey-of-video-diffusion-models-foundations-implementations-and-applications)
   - [Table of Contents](#table-of-contents)
       - [Table samples](#table-samples)
-- [Foundation](#foundation)
+- [Foundations](#foundations)
   - [Video generative paradigm](#video-generative-paradigm)
     - [GAN video models](#gan-video-models)
     - [Auto-regressive video models](#auto-regressive-video-models)
@@ -131,7 +131,7 @@
     - [Diffusion transformers](#diffusion-transformers)
     - [VAE for latent space compression](#vae-for-latent-space-compression)
     - [Text encoder](#text-encoder)
-- [Implementation](#implementation)
+- [Implementations](#implementations)
   - [Datasets](#datasets)
   - [Training engineering](#training-engineering)
   - [Evaluation metrics and benchmarking findings](#evaluation-metrics-and-benchmarking-findings)
@@ -168,16 +168,7 @@
 - [Citation](#citation)
 - [Acknowledgement](#acknowledgement)
 
-#### Table samples
-
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-| [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) |[![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)|[![Website](https://img.shields.io/badge/Website-9cf)](https://wilsonyan.com/videogpt/index.html) | Nov., 2024
-| []() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)|[![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
-
-Remember to update the repo name and owner name in the above table.
-
-# Foundation
+# Foundations
 
 ## Video generative paradigm
 
