@@ -101,7 +101,7 @@
 
 
 ## Table of Contents 
-- [Academic and Industry Models](@academic-and-industry-models)
+- [Academic and industry models](@academic-and-industry-models)
   - [Academic models](#academic-models)
   - [Industry models](#industry-models)
 - [Foundations](#foundations)
