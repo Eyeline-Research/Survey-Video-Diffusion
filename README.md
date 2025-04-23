@@ -17,8 +17,6 @@
   <sup>1</sup>University of Waterloo, <sup>2</sup>Netflix Eyeline Studios, <sup>3</sup>Duke University <br> <sup>*</sup>Contributed Equally, <sup>†</sup>Corresponding Author
 </p>
 
-- [News] <span style="color:red;"> **Our survey is on Arxiv now.**</span>
-
 ## Academic and industry Models
 
 ### Academic models
