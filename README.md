@@ -101,6 +101,9 @@
 
 
 ## Table of Contents 
+- [Academic and Industry Models](@academic-and-industry-models)
+  - [Academic models](#academic-models)
+  - [Industry models](#industry-models)
 - [Foundations](#foundations)
   - [Video generative paradigms](#video-generative-paradigms)
     - [GAN video models](#gan-video-models)
@@ -131,7 +134,6 @@
   - [Datasets](#datasets)
   - [Training engineering](#training-engineering)
   - [Evaluation metrics and benchmarking findings](#evaluation-metrics-and-benchmarking-findings)
-  - [Industry solutions](#industry-solutions)
 - [Applications](#applications)
   - [Conditions](#conditions)
     - [Image condition](#image-condition)
@@ -476,50 +478,6 @@
 
 ## Evaluation metrics and benchmarking findings
 
-## Industry solutions
-
-| Title | arXiv | Github | WebSite | Pub. & Date |
-|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-| [Magic 1-for-1: Generating one minute video clips within one minute](https://arxiv.org/abs/2502.07701) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-research.github.io/magic-1-for-1/) | arXiv 2025 |
-| [SkyReels v1: Human-centric video foundation model](https://arxiv.org/abs/2502.10841) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10841) | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | - | arXiv 2025 |
-| [Step-Video-T2V](https://arxiv.org/abs/2403.14339) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14339) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://step-video.github.io/) | arXiv 2024 |
-| [HunyuanVideo](https://arxiv.org/abs/2401.08514) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.08514) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hunyuan.tecent.com/) | arXiv 2024 |
-| [Sora](https://openai.com/sora) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://openai.com/sora) | 2024 |
-| [STIV](https://github.com/rhymes-ai/Allegro) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.13243) | [![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)](https://github.com/rhymes-ai/Allegro) | [![Website](https://img.shields.io/badge/Website-9cf)](https://stiv-ailab.github.io/STIV/) | arXiv 2024 |
-| [LTX-Video](https://arxiv.org/abs/2403.10251) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.10251) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ltx-video.github.io/) | arXiv 2024 |
-| [Allegro](https://github.com/rhymes-ai/Allegro) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05233) | [![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)](https://github.com/rhymes-ai/Allegro) | [![Website](https://img.shields.io/badge/Website-9cf)](https://allegro-t2v.github.io/) | arXiv 2024 |
-| [Jimeng](https://jimeng.jianying.com/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15687) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jimeng.jianying.com/) | arXiv 2024 |
-| [Mochi 1](https://mochi1ai.com/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08275) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://mochi1ai.com/) | arXiv 2024 |
-| [EasyAnimate](https://github.com/aigc-apps/EasyAnimate) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15919) | [![Star](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/aigc-apps/EasyAnimate/blob/main/README.md) | arXiv 2024 |
-| [Vidu](https://www.vidu.com/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/) | 2024 |
-| [VideoCrafter2](https://arxiv.org/abs/2401.09047) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) | [![Star](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter2/) | arXiv 2024 |
-| [VideoCrafter1](https://arxiv.org/abs/2310.19512) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512) | [![Star](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter/) | arXiv 2023 |
-| [Mira](https://mira-space.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.19343) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/) | arXiv 2024 |
-| [Hailuo AI](https://hailuoai.video/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) | 2024 |
-| [Lumiere](https://lumiere-video.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12945) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumiere-video.github.io/) | arXiv 2024 |
-| [VideoPoet](https://sites.research.google/videopoet/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14125) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.research.google/videopoet/) | arXiv 2023 |
-| [LumaAI Ray 2](https://lumalabs.ai/ray) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/ray) | 2024 |
-| [LumaAI Dream Machine](https://lumalabs.ai/dream-machine) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine) | 2023 |
-| [Veo-2](https://deepmind.google/technologies/veo/veo-2/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/technologies/veo/veo-2/) | 2024 |
-| [Veo-1](https://deepmind.google/technologies/veo/veo-1/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/technologies/veo/veo-1/) | 2023 |
-| [Nova Real](https://docs.aws.amazon.com/ai/responsible-ai/nova-reel/overview.html) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://docs.aws.amazon.com/ai/responsible-ai/nova-reel/overview.html) | 2024 |
-| [Wanx 2.1](https://tongyi.aliyun.com/wanxiang/videoCreation) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi.aliyun.com/wanxiang/videoCreation) | 2024 |
-| [Kling](https://www.klingai.com/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.klingai.com/) | 2024 |
-| [Show-1](https://showlab.github.io/Show-1/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15818) | [![Star](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Star)](https://github.com/showlab/Show-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) | NeurIPS 2023 |
-| [MovieGen](https://ai.meta.com/research/movie-gen/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15969) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/research/movie-gen/) | arXiv 2024 |
-| [Pika](https://pika.art) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://pika.art) | 2023 |
-| [Vchitect-2.0](https://vchitect.intern-ai.org.cn/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | 2024 |
-| [Optis](https://github.com/Vchitect/Optix) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15255) | [![Star](https://img.shields.io/github/stars/Vchitect/Optix.svg?style=social&label=Star)](https://github.com/Vchitect/Optix) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/Optix-Site/) | NeurIPS 2023 |
-| [VLogger](https://github.com/Vchitect/Vlogger) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.20082) | [![Star](https://img.shields.io/github/stars/Vchitect/Vlogger.svg?style=social&label=Star)](https://github.com/Vchitect/Vlogger) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VLogger-project/) | ICCV 2023 |
-| [Seine](https://github.com/Vchitect/SEINE) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11334) | [![Star](https://img.shields.io/github/stars/Vchitect/SEINE.svg?style=social&label=Star)](https://github.com/Vchitect/SEINE) | [![Website](https://img.shields.io/badge/Website-9cf)](https://seine-ai.github.io/seine/) | CVPR 2023 |
-| [Lavie](https://github.com/Vchitect/LaVie) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15103) | [![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)](https://github.com/Vchitect/LaVie) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/LaVie-project/) | ICCV 2023 |
-| [MiracleVision](https://www.miraclevision.com/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.miraclevision.com/) | 2023 |
-| [Phenaki](https://phenaki.video/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02399) | [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://phenaki.video/) | ICLR 2024 |
-| [W.A.L.T](https://arxiv.org/abs/2403.06776) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06776) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://walt-video-diffusion.github.io/) | arXiv 2024 |
-| [Imagen video](https://imagen.research.google/video/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02303) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/video/) | 2022 |
-| [GEN-3 Alpha](https://runwayml.com/research/introducing-gen-3-alpha) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-gen-3-alpha) | 2024 |
-| [GEN-2](https://runwayml.com/research/gen-2/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-2/) | 2023 |
-| [GEN-1](https://runwayml.com/research/gen-1/) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1/) | 2022 |
 
 # Applications
 
