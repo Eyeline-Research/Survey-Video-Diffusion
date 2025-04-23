@@ -436,8 +436,8 @@
 ### Text encoders
 
 
-| Title | arXiv | GitHub | Website | Pub. & Date |
-|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+|:------|:-----:|:------:|:-------:|:-----------:|
 | [Magic 1-for-1: Generating one minute video clips within one minute](https://arxiv.org/abs/2502.07701) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-research.github.io/magic-1-for-1/) | arXiv 2025 |
 | [SkyReels v1: Human-centric video foundation model](https://arxiv.org/abs/2502.10841) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10841) | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | - | arXiv 2025 |
 | [Hunyuanvideo: A systematic framework for large video generative models](https://arxiv.org/abs/2505.01827) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.01827) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hunyuan.tencent.com/video/) | arXiv 2025 |
