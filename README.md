@@ -21,7 +21,7 @@
 
 ### Academic models
 
-| Title | arXiv | GitHub | Website | Pub. & Date |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/abs/2501.08994) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08994) | [![Star](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Star)](https://github.com/Vchitect/RepVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/RepVid-Webpage/) | arXiv 2025 |
 | [CausVid: Causality-Aware Video Generation with Slow-Fast Diffusion Models](https://arxiv.org/abs/2402.05602) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05602) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | CVPR 2025 |
@@ -56,7 +56,7 @@
 ### Industry models
 
 
-| Title | arXiv | Github | WebSite | Pub. & Date |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Magic 1-for-1: Generating one minute video clips within one minute](https://arxiv.org/abs/2502.07701) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-research.github.io/magic-1-for-1/) | arXiv 2025 |
 | [SkyReels v1: Human-centric video foundation model](https://arxiv.org/abs/2502.10841) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10841) | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | - | arXiv 2025 |
@@ -275,7 +275,7 @@
 ### Training-free methods
 
 | <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------|:-----:|:------:|:-------:|:-----------:|
+|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/) | arXiv 2024 |
 | [VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models](https://arxiv.org/abs/2403.05438) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05438) | [![Star](https://img.shields.io/github/stars/YBYBZhang/VideoElevator.svg?style=social&label=Star)](https://github.com/YBYBZhang/VideoElevator) | [![Website](https://img.shields.io/badge/Website-9cf)](https://videoelevator.github.io/) | arXiv 2024 |
 | [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://arxiv.org/abs/2311.12631) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12631) | [![Star](https://img.shields.io/github/stars/jiaxilv/GPT4Motion.svg?style=social&label=Star)](https://github.com/jiaxilv/GPT4Motion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://gpt4motion.github.io/) | CVPR 2024 |
@@ -381,7 +381,7 @@
 ### UNet
 
 | <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------|:-----:|:------:|:-------:|:-----------:|
+|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [MoVideo: Motion-Aware Video Generation with Diffusion Models](https://arxiv.org/abs/2311.11325) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jingyunliang.github.io/MoVideo/) | ECCV 2025 |
 | [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06571) | - | - | arXiv 2023 |
 | [Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation](https://arxiv.org/abs/2304.08477) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08477) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://latent-shift.github.io/) | arXiv 2023 |
@@ -399,7 +399,7 @@
 ### Diffusion transformers
 
 | <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------|:-----:|:------:|:-------:|:-----------:|
+|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Open-Sora: Democratizing Efficient Video Production for All](https://arxiv.org/abs/2412.20404) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20404) | [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora) | - | arXiv 2024 |
 | [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | arXiv 2024 |
 | [SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.08740) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://scalable-interpolant.github.io/) | arXiv 2024 |
@@ -417,7 +417,7 @@
 ### VAE for latent space compression
 
 | <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------|:-----:|:------:|:-------:|:------------:|
+|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [HunyuanVideo: A Systematic Framework for Large Video Generative Models](https://arxiv.org/abs/2405.18991) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991) | - | - | arXiv 2025 |
 | [SkyReels V1: Human-Centric Video Foundation Model](https://github.com/SkyworkAI/SkyReels-V1) | - | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/SkyworkAI/SkyReels-V1) | arXiv 2025 |
 | [Magic 1-for-1: Generating One Minute Video Clips Within One Minute](https://arxiv.org/abs/2405.20279) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-141.github.io/Magic-141/) | arXiv 2025 |
@@ -437,7 +437,7 @@
 
 
 | <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
-|:------|:-----:|:------:|:-------:|:-----------:|
+|:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Magic 1-for-1: Generating one minute video clips within one minute](https://arxiv.org/abs/2502.07701) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-research.github.io/magic-1-for-1/) | arXiv 2025 |
 | [SkyReels v1: Human-centric video foundation model](https://arxiv.org/abs/2502.10841) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10841) | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | - | arXiv 2025 |
 | [Hunyuanvideo: A systematic framework for large video generative models](https://arxiv.org/abs/2505.01827) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.01827) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://hunyuan.tencent.com/video/) | arXiv 2025 |
