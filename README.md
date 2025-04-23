@@ -101,24 +101,20 @@
 
 
 ## Table of Contents 
-
-- [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](#survey-of-video-diffusion-models-foundations-implementations-and-applications)
-  - [Table of Contents](#table-of-contents)
-      - [Table samples](#table-samples)
 - [Foundations](#foundations)
-  - [Video generative paradigm](#video-generative-paradigm)
+  - [Video generative paradigms](#video-generative-paradigms)
     - [GAN video models](#gan-video-models)
     - [Auto-regressive video models](#auto-regressive-video-models)
     - [Video diffusion models](#video-diffusion-models)
     - [Auto-regressive video diffusion models](#auto-regressive-video-diffusion-models)
-  - [Learning foundation](#learning-foundation)
+  - [Learning foundations](#learning-foundations)
     - [Classic denoising diffusion models](#classic-denoising-diffusion-models)
     - [Flow matching and rectified flow](#flow-matching-and-rectified-flow)
     - [Learning from feedback and reward models](#learning-from-feedback-and-reward-models)
     - [One-shot and few-shot learning](#one-shot-and-few-shot-learning)
     - [Training-free methods](#training-free-methods)
     - [Token learning](#token-learning)
-  - [Guidance](#guidance)
+  - [Guidances](#guidances)
     - [Classifier guidance](#classifier-guidance)
     - [Classifier-free guidance](#classifier-free-guidance)
   - [Diffusion model frameworks](#diffusion-model-frameworks)
@@ -126,11 +122,11 @@
     - [Optical-flow-based diffusion models](#optical-flow-based-diffusion-models)
     - [Noise scheduling](#noise-scheduling)
     - [Agent-based diffusion models](#agent-based-diffusion-models)
-  - [Architecture](#architecture)
+  - [Architectures](#architectures)
     - [UNet](#unet)
     - [Diffusion transformers](#diffusion-transformers)
     - [VAE for latent space compression](#vae-for-latent-space-compression)
-    - [Text encoder](#text-encoder)
+    - [Text encoders](#text-encoders)
 - [Implementations](#implementations)
   - [Datasets](#datasets)
   - [Training engineering](#training-engineering)
@@ -170,7 +166,7 @@
 
 # Foundations
 
-## Video generative paradigm
+## Video generative paradigms
 
 ### GAN video models
 
@@ -227,7 +223,7 @@
 | [ART·V: Auto-Regressive Text-to-Video Generation with Diffusion Models](https://arxiv.org/abs/2311.18834) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18834) | [![Star](https://img.shields.io/github/stars/WarranWeng/ART.V.svg?style=social&label=Star)](https://github.com/WarranWeng/ART.V) | [![Website](https://img.shields.io/badge/Website-9cf)](https://warranweng.github.io/art.v/) | CVPR 2024 |
 
 
-## Learning foundation
+## Learning foundations
 
 ### Classic denoising diffusion models
 
@@ -299,7 +295,7 @@
 | [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940) | - | - | arXiv 2023 |
 | [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.01618) | [![Star](https://img.shields.io/github/stars/rinongal/textual_inversion.svg?style=social&label=Star)](https://github.com/rinongal/textual_inversion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://textual-inversion.github.io/) | ICLR 2023 |
 
-## Guidance
+## Guidances
 
 ### Classifier guidance
 
@@ -378,7 +374,7 @@
 
 
 
-## Architecture
+## Architectures
 
 ### UNet
 
@@ -435,7 +431,7 @@
 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.11239) | [![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star)](https://github.com/hojonathanho/diffusion) | - | NeurIPS 2020 |
 
 
-### Text encoder
+### Text encoders
 
 
 | Title | arXiv | GitHub | Website | Pub. & Date |
