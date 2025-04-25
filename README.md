@@ -6,16 +6,16 @@
       <a href="https://yimuwangcs.github.io">Yimu Wang</a><sup>1,*</sup>, 
       <a href="https://xuyeliu.github.io/" >Xuye Liu</a><sup>1,*</sup>,
       <a href="https://scholar.google.com/citations?user=f90pZOYAAAAJ&hl=en" >Wei Pang</a><sup>1,*</sup>,
-      <a href="https://limacv.github.io/homepage/" >Li Ma</a><sup>2,*</sup>,
-      <a href="https://shuaiyuan1996.github.io/home/" >Shuai Yuan</a><sup>3,*</sup>,
-      <a href="https://www.pauldebevec.com/" >Paul Debevec</a><sup>2</sup>,
-      <a href="https://ningyu1991.github.io/" >Ning Yu</a><sup>2,†</sup>
+      <a href="https://limacv.github.io/homepage/" >Li Ma</a><sup>3,*</sup>,
+      <a href="https://shuaiyuan1996.github.io/home/" >Shuai Yuan</a><sup>2,*</sup>,
+      <a href="https://www.pauldebevec.com/" >Paul Debevec</a><sup>3</sup>,
+      <a href="https://ningyu1991.github.io/" >Ning Yu</a><sup>3,†</sup>
       </p>
   </div>
 </p>
 
 <p align="left">
-  <sup>1</sup>University of Waterloo, <sup>2</sup>Netflix Eyeline Studios, <sup>3</sup>Duke University <br> <sup>*</sup>Contributed Equally, <sup>†</sup>Corresponding Author
+  <sup>1</sup>University of Waterloo, <sup>2</sup>Duke University, <sup>3</sup>Netflix Eyeline Studios <br> <sup>*</sup>Contributed Equally, <sup>†</sup>Corresponding Author
 </p>
 
 ![image](img/teaser.jpg)
@@ -153,7 +153,7 @@ quality assessment on user generated contents from aesthetic and technical persp
 ## Table of Contents 
 - [Survey of Video Diffusion Models: Foundations, Implementations, and Applications ](#survey-of-video-diffusion-models-foundations-implementations-and-applications-)
   - [Industrial and academic video diffusion models](#industrial-and-academic-video-diffusion-models)
-    - [Industry models](#industry-models)
+    - [Industrial models](#industrial-models)
     - [Academic models](#academic-models)
 - [Implementation](#implementation)
   - [Datasets](#datasets)
