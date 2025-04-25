@@ -1,21 +1,24 @@
-# Survey of Video Diffusion Models: Foundations, Implementations, and Applications
+# Survey of Video Diffusion Models: Foundations, Implementations, and Applications [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16081)
 
-<p align="center">
+<p align="left">
   <div style="text-align:center; font-size: 18px;">
       <p>
-      <a href="mailto:yimu.wang@uwaterloo.ca">Yimu Wang<sup>1,*</sup></a>, 
-      <a href="mailto:x827liu@uwaterloo.ca" >Xuye Liu<sup>1,*</sup>,</a>
-      <a href="mailto:w3pang@uwaterloo.ca" >Wei Pang<sup>1,*</sup>,</a>
-      <a href="mailto:li.ma@scanlinevfx.com" >Li Ma<sup>2,*</sup>,</a>
-      <a href="mailto:shuai@cs.duke.edu" >Shuai Yuan<sup>3,*</sup>,</a>
-      <a href="mailto:debevec@netflix.com" >Paul Debevec<sup>2</sup>,</a>
-      <a href="mailto:ning.yu@scanlinevfx.com" >Ning Yu<sup>2,†</sup></a>
+      <a href="https://yimuwangcs.github.io">Yimu Wang</a><sup>1,*</sup>, 
+      <a href="https://xuyeliu.github.io/" >Xuye Liu</a><sup>1,*</sup>,
+      <a href="https://scholar.google.com/citations?user=f90pZOYAAAAJ&hl=en" >Wei Pang</a><sup>1,*</sup>,
+      <a href="https://limacv.github.io/homepage/" >Li Ma</a><sup>2,*</sup>,
+      <a href="https://shuaiyuan1996.github.io/home/" >Shuai Yuan</a><sup>3,*</sup>,
+      <a href="https://www.pauldebevec.com/" >Paul Debevec</a><sup>2</sup>,
+      <a href="https://ningyu1991.github.io/" >Ning Yu</a><sup>2,†</sup>
       </p>
   </div>
 </p>
-<p align="center">
+
+<p align="left">
   <sup>1</sup>University of Waterloo, <sup>2</sup>Netflix Eyeline Studios, <sup>3</sup>Duke University <br> <sup>*</sup>Contributed Equally, <sup>†</sup>Corresponding Author
 </p>
+
+![image](img/teaser.jpg)
 
 ## Academic and industry models
 
@@ -101,9 +104,11 @@
 
 
 ## Table of Contents 
-- [Academic and industry models](@academic-and-industry-models)
-  - [Academic models](#academic-models)
-  - [Industry models](#industry-models)
+- [Survey of Video Diffusion Models: Foundations, Implementations, and Applications ](#survey-of-video-diffusion-models-foundations-implementations-and-applications-)
+  - [Academic and industry models](#academic-and-industry-models)
+    - [Academic models](#academic-models)
+    - [Industry models](#industry-models)
+  - [Table of Contents](#table-of-contents)
 - [Foundations](#foundations)
   - [Video generative paradigms](#video-generative-paradigms)
     - [GAN video models](#gan-video-models)
@@ -130,7 +135,7 @@
     - [Diffusion transformers](#diffusion-transformers)
     - [VAE for latent space compression](#vae-for-latent-space-compression)
     - [Text encoders](#text-encoders)
-- [Implementations](#implementations)
+- [Implementation](#implementation)
   - [Datasets](#datasets)
   - [Training engineering](#training-engineering)
   - [Evaluation metrics and benchmarking findings](#evaluation-metrics-and-benchmarking-findings)
@@ -990,7 +995,15 @@
 If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
 ```
-To update
+@misc{wang2025surveyvideodiffusionmodels,
+      title={Survey of Video Diffusion Models: Foundations, Implementations, and Applications}, 
+      author={Yimu Wang and Xuye Liu and Wei Pang and Li Ma and Shuai Yuan and Paul Debevec and Ning Yu},
+      year={2025},
+      eprint={2504.16081},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.16081}, 
+}
 ```
 
 # Acknowledgement
