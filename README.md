@@ -25,7 +25,7 @@
 ### Industrial models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Magic 1-for-1: Generating one minute video clips within one minute](https://arxiv.org/abs/2502.07701) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-research.github.io/magic-1-for-1/) | Arxiv 2025 |
 | [SkyReels v1: Human-centric video foundation model](https://arxiv.org/abs/2502.10841) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10841) | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | - | Arxiv 2025 |
@@ -72,7 +72,7 @@
 
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/abs/2501.08994) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08994) | [![Star](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Star)](https://github.com/Vchitect/RepVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/RepVid-Webpage/) | Arxiv 2025 |
 | [CausVid: Causality-Aware Video Generation with Slow-Fast Diffusion Models](https://arxiv.org/abs/2402.05602) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05602) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | CVPR 2025 |
@@ -111,7 +111,7 @@
 
 More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https://mixkit.co/), [Pond5](https://www.pond5.com/), [Adobe Stock](https://stock.adobe.com/), [Shutterstock](https://www.shutterstock.com/), [Getty](https://www.gettyimages.com/), [Coverr](https://coverr.co/), [Videvo](https://www.videvo.net/), [Depositphotos](https://depositphotos.com/), [Storyblocks](https://www.storyblocks.com/), [Dissolve](https://dissolve.com/), [Freepik](https://www.freepik.com/), [Vimeo](https://vimeo.com/), and [Envato](https://elements.envato.com/).
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Midjourney V5.1 Cleaned Data](https://www.kaggle.com/datasets/iraklip/modjourney-v51-cleaned-data) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.kaggle.com/datasets/iraklip/modjourney-v51-cleaned-data) |  |
 | [Unsplash-lite](https://github.com/unsplash/datasets) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/unsplash/datasets) |  |
@@ -159,7 +159,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ## Training engineering
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [LLaVA-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models](https://openreview.net/forum?id=oSQiao9GqB) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07895) | [![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg?style=social&label=Star)](https://github.com/LLaVA-VL/LLaVA-NeXT) | [![Website](https://img.shields.io/badge/Website-9cf)](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/) | ICLR 2025 |
 | [SAM 2: Segment Anything in Images and Videos](https://openreview.net/forum?id=Ha6RTeWMd0) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.00714) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/sam2/) | ICLR 2025 |
@@ -185,7 +185,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [VBench: Comprehensive Benchmark Suite for Video Generative Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982) | [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-project/) | CVPR 2024 |
 | [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13503) | [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench)| [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-project/) | CVPR 2024 |
@@ -200,16 +200,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 | [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1706.08500) | [![Star](https://img.shields.io/github/stars/bioinf-jku/TTUR.svg?style=social&label=Star)](https://github.com/bioinf-jku/TTUR) | - | NeurIPS 2017 |
 | [Blind video temporal consistency](https://dl.acm.org/doi/10.1145/2816795.2818107) | -| - | - | TOG 2015 |
 
-## Table of Contents 
-- [Survey of Video Diffusion Models: Foundations, Implementations, and Applications ](#survey-of-video-diffusion-models-foundations-implementations-and-applications-)
-  - [Industrial and academic video diffusion models](#industrial-and-academic-video-diffusion-models)
-    - [Industrial models](#industrial-models)
-    - [Academic models](#academic-models)
-- [Implementation](#implementation)
-  - [Datasets](#datasets)
-  - [Training engineering](#training-engineering)
-  - [Evaluation metrics and benchmarking findings](#evaluation-metrics-and-benchmarking-findings)
-  - [Table of Contents](#table-of-contents)
+## Table of Contents
 - [Foundations](#foundations)
   - [Video generative paradigms](#video-generative-paradigms)
     - [GAN video models](#gan-video-models)
@@ -274,7 +265,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### GAN video models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](https://arxiv.org/abs/2308.16909) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.16909) | [![Star](https://img.shields.io/github/stars/johannwyh/StyleInV.svg?style=social&label=Star)](https://github.com/johannwyh/StyleInV) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.mmlab-ntu.com/project/styleinv/index.html) | ICCV 2023 |
 | [StyleLipSync: Style-based Personalized Lip-sync Video Generation](https://arxiv.org/abs/2305.00521) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.00521) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://stylelipsync.github.io/) | ICCV 2023 |
@@ -291,7 +282,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Auto-regressive video models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2205.15868) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.15868) | [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://models.aminer.cn/cogvideo) | ICLR 2023 |
 | [Single Image Video Prediction with Auto-Regressive GANs](https://www.mdpi.com/1424-8220/22/9/3533) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.mdpi.com/1424-8220/22/9/3533) | - | - | Sensors 2022 |
@@ -305,7 +296,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Video diffusion models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [CCEdit: Creative and Controllable Video Editing via Diffusion Models](https://arxiv.org/abs/2401.12345) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12345) | - | - | Arxiv 2024 |
 | [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08818) | [![Star](https://img.shields.io/github/stars/srpkdyy/VideoLDM.svg?style=social&label=Star)](https://github.com/srpkdyy/VideoLDM) | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) | CVPR 2023 |
@@ -319,7 +310,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Auto-regressive video diffusion models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | Arxiv 2024 |
 | [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08151) | [![Star](https://img.shields.io/github/stars/desaixie/pa_vdm.svg?style=social&label=Star)](https://github.com/desaixie/pa_vdm) | [![Website](https://img.shields.io/badge/Website-9cf)](https://desaixie.github.io/pa-vdm/) | Arxiv 2024 |
@@ -331,7 +322,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Classic denoising diffusion models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00364) | [![Star](https://img.shields.io/github/stars/NVlabs/edm.svg?style=social&label=Star)](https://github.com/NVlabs/edm) | - | NeurIPS 2022 |
 | [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | - | ICLR 2021 |
@@ -343,7 +334,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Flow matching and rectified flow
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.15687) | [![Star](https://img.shields.io/github/stars/lucidrains/voicebox-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/voicebox-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)](https://voicebox.metademolab.com) | NeurIPS 2023 |
 | [Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion](https://arxiv.org/abs/2306.05708) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05708) | - | - | ICASSP 2023 |
@@ -354,7 +345,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Learning from feedback and reward models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02617) | - | - | Arxiv 2024 |
 | [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design](https://arxiv.org/abs/2410.05677) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05677) | [![Star](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Star)](https://github.com/Ji4chenLi/t2v-turbo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/) | Arxiv 2024 |
@@ -366,7 +357,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### One-shot and few-shot learning
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Make an Image Move: Few-Shot Based Video Generation Guided by CLIP](https://dl.acm.org/doi/10.1007/978-3-031-78172-8_10) | - | - | - | ICPR 2025 |
 | [LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation](https://arxiv.org/abs/2310.10769) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10769) | [![Star](https://img.shields.io/github/stars/RQ-Wu/LAMP.svg?style=social&label=Star)](https://github.com/RQ-Wu/LAMP) | [![Website](https://img.shields.io/badge/Website-9cf)](https://rq-wu.github.io/projects/LAMP/) | Oct., 2023 |
@@ -376,7 +367,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Training-free methods
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/) | Arxiv 2024 |
 | [VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models](https://arxiv.org/abs/2403.05438) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05438) | [![Star](https://img.shields.io/github/stars/YBYBZhang/VideoElevator.svg?style=social&label=Star)](https://github.com/YBYBZhang/VideoElevator) | [![Website](https://img.shields.io/badge/Website-9cf)](https://videoelevator.github.io/) | Arxiv 2024 |
@@ -393,7 +384,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Token learning
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/) | Arxiv 2024 |
 | [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940) | - | - | Arxiv 2023 |
@@ -403,7 +394,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Classifier guidance
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [CFG++: Manifold-Constrained Classifier Free Guidance for Diffusion Models](https://arxiv.org/abs/2406.08070) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08070) | [![Star](https://img.shields.io/github/stars/CFGpp-diffusion/CFGpp.svg?style=social&label=Star)](https://github.com/CFGpp-diffusion/CFGpp) | [![Website](https://img.shields.io/badge/Website-9cf)](https://cfgpp-diffusion.github.io/) | Arxiv 2024 |
 | [LLM-grounded Video Diffusion Models](https://arxiv.org/abs/2309.17444) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444) | [![Star](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://llm-grounded-video-diffusion.github.io/) | ICLR 2024 |
@@ -413,7 +404,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Classifier-free guidance
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.12598) | [![Star](https://img.shields.io/github/stars/lucidrains/classifier-free-guidance-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/classifier-free-guidance-pytorch) | [![Website](https://img.shields.io/badge/Website-9cf)]() | 2022 |
 
@@ -421,7 +412,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Pixel diffusion and latent diffusion
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03048) | [![Star](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Star)](https://github.com/Vchitect/Latte) | [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/latte_project/) | TMLR 2025 |
 | [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2309.15818) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15818) | [![Star](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Star)](https://github.com/showlab/Show-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) | Arxiv 2023 |
@@ -434,7 +425,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Optical-flow-based diffusion models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08331) | [![Star](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Star)](https://github.com/Eyeline-Research/Go-with-the-Flow) | [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/) | CVPR 2025 |
 | [Infinite-Resolution Integral Noise Warping for Diffusion Models](https://arxiv.org/abs/2402.12345) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.12345) | [![Star](https://img.shields.io/github/stars/yitongdeng-projects/infinite_resolution_integral_noise_warping_code.svg?style=social&label=Star)](https://github.com/yitongdeng-projects/infinite_resolution_integral_noise_warping_code)|[![Website](https://img.shields.io/badge/Website-9cf)](https://yitongdeng-projects.github.io/noise_warping_webpage/)  | ICLR 2024 |
@@ -455,7 +446,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Noise scheduling
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Rethinking the Noise Schedule of Diffusion-Based Generative Models](https://openreview.net/forum?id=ylHLVq0psd) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=ylHLVq0psd) | - | - | ICLR 2024 |
 | [On the Importance of Noise Scheduling for Diffusion Models](https://arxiv.org/abs/2301.10972) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.10972) | - | - | Arxiv 2023 |
@@ -468,7 +459,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Agent-based diffusion models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10076) | [![Star](https://img.shields.io/github/stars/Video-as-Agent/VideoAgent.svg?style=social&label=Star)](https://github.com/Video-as-Agent/VideoAgent) | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-as-agent.github.io/) | ICLR 2025 |
 | [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13248) | [![Star](https://img.shields.io/github/stars/lichao-sun/Mora.svg?style=social&label=Star)](https://github.com/lichao-sun/Mora) | - | Arxiv 2024 |
@@ -482,7 +473,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### UNet
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [MoVideo: Motion-Aware Video Generation with Diffusion Models](https://arxiv.org/abs/2311.11325) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://jingyunliang.github.io/MoVideo/) | ECCV 2025 |
 | [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06571) | - | - | Arxiv 2023 |
@@ -500,7 +491,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Diffusion transformers
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Open-Sora: Democratizing Efficient Video Production for All](https://arxiv.org/abs/2412.20404) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20404) | [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora) | - | Arxiv 2024 |
 | [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | [![Star](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Star)](https://github.com/tianweiy/CausVid) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | Arxiv 2024 |
@@ -518,7 +509,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### VAE for latent space compression
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [HunyuanVideo: A Systematic Framework for Large Video Generative Models](https://arxiv.org/abs/2405.18991) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991) | - | - | Arxiv 2025 |
 | [SkyReels V1: Human-Centric Video Foundation Model](https://github.com/SkyworkAI/SkyReels-V1) | - | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/SkyworkAI/SkyReels-V1) | Arxiv 2025 |
@@ -538,7 +529,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 ### Text encoders
 
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Magic 1-for-1: Generating one minute video clips within one minute](https://arxiv.org/abs/2502.07701) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701) | [![Star](https://img.shields.io/github/stars/Open-Magic-Video/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/Open-Magic-Video/Magic-1-For-1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-research.github.io/magic-1-for-1/) | Arxiv 2025 |
 | [SkyReels v1: Human-centric video foundation model](https://arxiv.org/abs/2502.10841) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10841) | [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V1) | - | Arxiv 2025 |
@@ -581,7 +572,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 ### Image condition
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:-----|:-----:|:-----:|:-----:|:-----:|
 | [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://openreview.net/pdf?id=LQzN6TRFg9) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06072) | [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/THUDM/CogVideo) | ICLR 2025 |
 | [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://openreview.net/pdf?id=TX0OsLcaWf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/) | ICLR 2025 |
@@ -614,7 +605,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Spatial condition
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/) | SIGGRAPH 2025 |
 | [ObjCtrl-2.5D: Training-free Object Control with Camera Poses](https://arxiv.org/abs/2412.07721) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07721) | [![Star](https://img.shields.io/github/stars/wzhouxiff/ObjCtrl-2.5D.svg?style=social&label=Star)](https://github.com/wzhouxiff/ObjCtrl-2.5D) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/ObjCtrl-2.5D/) | Arxiv 2024 |
@@ -635,7 +626,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Camera parameter condition
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/) | SIGGRAPH 2025 |
 | [3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation](https://arxiv.org/abs/2412.07759) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07759) | [![Star](https://img.shields.io/github/stars/KwaiVGI/3DTrajMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/3DTrajMaster) | [![Website](https://img.shields.io/badge/Website-9cf)](https://fuxiao0719.github.io/projects/3dtrajmaster/) | ICLR 2025 |
@@ -651,7 +642,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Audio condition
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://omnihuman-lab.github.io/) | Arxiv 2025 |
 | [AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding](https://arxiv.org/abs/2405.03121) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03121) | [![Star](https://img.shields.io/github/stars/X-LANCE/AniTalker.svg?style=social&label=Star)](https://github.com/X-LANCE/AniTalker) | [![Website](https://img.shields.io/badge/Website-9cf)](https://x-lance.github.io/AniTalker/) | ACM MM 2024 |
@@ -666,7 +657,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### High-level video condition
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069) | [![Star](https://img.shields.io/github/stars/omerbt/TokenFlow.svg?style=social&label=Star)](https://github.com/omerbt/TokenFlow) | [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-tokenflow.github.io/) | ICLR 2024 |
 | [MotionClone: Training-Free Motion Cloning for Controllable Video Generation](https://arxiv.org/abs/2406.05338) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05338) | [![Star](https://img.shields.io/github/stars/LPengYang/MotionClone.svg?style=social&label=Star)](https://github.com/LPengYang/MotionClone) | [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/) | ICLR 2025 |
@@ -716,7 +707,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Other conditions
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Mind the Time: Temporally-Controlled Multi-Event Video Generation](https://arxiv.org/abs/2412.05263) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05263) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://mint-video.github.io/) | CVPR 2025 |
 | [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18964) | [![Star](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Star)](https://github.com/stevenlsw/physgen) | [![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/) | ECCV 2024 |
@@ -776,7 +767,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ## Personalization
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Dynamic Concepts Personalization from Single Videos](https://arxiv.org/abs/2502.14844) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.14844) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/dynamic_concepts/) | SIGGRAPH 2025 |
 | [VideoAlchemy: Open-set Personalization in Video Generation](https://arxiv.org/abs/2501.06187) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06187) | [![Star](https://img.shields.io/github/stars/snap-research/MSRVTT-Personalization.svg?style=social&label=Star)](https://github.com/snap-research/MSRVTT-Personalization) | [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/open-set-video-personalization/) | CVPR 2025 |
@@ -794,7 +785,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ## Consistency
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models  ](https://arxiv.org/abs/2407.15642) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15642) | [![Star](https://img.shields.io/github/stars/maxin-cn/Cinemo.svg?style=social&label=Star)](https://github.com/maxin-cn/Cinemo)|[![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/cinemo_project/) | CVPR 2025 |
 | [How i warped your noise: a temporally-correlated noise prior for diffusion models](https://openreview.net/forum?id=pzElnMrgSD) | - | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://warpyournoise.github.io) | ICLR 2024 |
@@ -831,7 +822,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 ## Long video
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequences](https://openreview.net/forum?id=QHj2LL958o) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.16655) | [![Star](https://img.shields.io/github/stars/aim-uofa/MovieDreamer.svg?style=social&label=Star)](https://github.com/aim-uofa/MovieDreamer)|[![Website](https://img.shields.io/badge/Website-9cf)](https://aim-uofa.github.io/MovieDreamer/) | ICLR 2025 |
 | [FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling](https://openreview.net/pdf/bd47f35c18df619e675c737ccc56c1d802537b73.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15169) | [![Star](https://img.shields.io/github/stars/AILab-CVC/FreeNoise.svg?style=social&label=Star)](https://github.com/AILab-CVC/FreeNoise)|[![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeNoise.html) | ICLR 2024 |
@@ -855,7 +846,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Training on 3D dataset
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://openreview.net/pdf?id=j7kdXSrISM) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.02371) | [![Star](https://img.shields.io/github/stars/NJU-PCALab/OpenVid-1M.svg?style=social&label=Star)](https://github.com/NJU-PCALab/OpenVid-1M) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/NJU-PCALab/OpenVid-1M) | ICLR 2025 |
 | [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/) | Arxiv 2025 |
@@ -886,7 +877,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Architecture for 3D diffusion models
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://openreview.net/pdf?id=tJoS2d0Onf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17470) | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv4d.github.io/) | ICLR 2025 |
 | [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/) | Arxiv 2025 |
@@ -914,7 +905,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 ### Camera conditioning
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
 
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02700) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://motion-prompting.github.io/) | CVPR 2025 |
 | [Vd3d: Taming large video diffusion transformers for 3d camera control](https://openreview.net/pdf?id=0n4bS0R5MM) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.12781) | [![Star](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/snap-research/ac3d) | [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/vd3d/) | ICLR 2025 |
@@ -942,7 +933,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ### Inference-time tricks
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer](https://openreview.net/pdf?id=zDJf7fvdid) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15364) | [![Star](https://img.shields.io/github/stars/ZHU-Zhiyu/NVS_Solver.svg?style=social&label=Star)](https://github.com/ZHU-Zhiyu/NVS_Solver) | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/ZHU-Zhiyu/NVS_Solver) | ICLR 2025 |
 | [Training-free Camera Control for Video Generation](https://openreview.net/pdf?id=KI1zldOFz9) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10126) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://lifedecoder.github.io/CamTrol/) | ICLR 2025 |
@@ -952,7 +943,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ## Video representation learning
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> | 
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> | 
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Deep video representation learning: a survey](https://link.springer.com/article/10.1007/s11042-023-17815-3) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.06574) | - | - | Multimedia Tools and Applications 2024 |
 | [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Text_Is_MASS_Modeling_as_Stochastic_Embedding_for_Text-Video_Retrieval_CVPR_2024_paper.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17998) | [![Star](https://img.shields.io/github/stars/patrick-0817/T-MASS-text-video-retrieval.svg?style=social&label=Star)](https://github.com/patrick-0817/T-MASS-text-video-retrieval) | - | CVPR 2024 |
@@ -986,7 +977,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ## Video retrieval
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Towards Retrieval Augmented Generation over Large Video Libraries](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613524) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14938) | - | - | IEEE HSI 2024 |
 | [Video Enriched Retrieval Augmented Generation Using Aligned Video Captions](https://arxiv.org/abs/2405.17706) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17706) | [![Star](https://img.shields.io/github/stars/kdr/videoRAG-mrr2024.svg?style=social&label=Star)](https://github.com/kdr/videoRAG-mrr2024) | - | 	SIGIR Workshop 2024 |
@@ -1029,7 +1020,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 
 ## Video QA and captioning
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding](https://openreview.net/forum?id=3G1ZDXOI4f) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15754) |[![Star](https://img.shields.io/github/stars/longvideobench/LongVideoBench.svg?style=social&label=Star)](https://github.com/longvideobench/LongVideoBench)| [![Website](https://img.shields.io/badge/Website-9cf)](https://longvideobench.github.io/) | NeurIPS 2024 |
 | [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01225) |[![Star](https://img.shields.io/github/stars/VRU-NExT/VideoQA.svg?style=social&label=Star)](https://github.com/VRU-NExT/VideoQA)| - | EMNLP 2022 |
@@ -1043,7 +1034,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 ### Video diffusion for 3D generation
 
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12091) | [![Star](https://img.shields.io/github/stars/snap-research/wonderland.svg?style=social&label=Star)](https://github.com/snap-research/wonderland/) | [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/wonderland/index.html) | Arxiv 2024 |
 | [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2408.16767) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.16767) | [![Star](https://img.shields.io/github/stars/liuff19/ReconX.svg?style=social&label=Star)](https://github.com/liuff19/ReconX) | [![Website](https://img.shields.io/badge/Website-9cf)](https://liuff19.github.io/ReconX/) | Arxiv 2024 |
@@ -1057,7 +1048,7 @@ More datasets could be found on [Pixabay](https://pixabay.com/), [Mixkit](https:
 ### Video diffusion for 4D generation
 
 *Papers, models, and benchmark datasets are listed in reverse order of their public time.*
-| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">WebSite</div> | <div style="width:12%">Pub. & Date</div> |
+| <div style="width:64%">Title</div> | <div style="width:8%">arXiv</div> | <div style="width:8%">Github</div>| <div style="width:8%">Website</div> | <div style="width:12%">Conference & Year</div> |
 |:------------------------------------------------------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://openreview.net/pdf?id=tJoS2d0Onf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17470) | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sv4d.github.io/) | ICLR 2025 |
 | [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/abs/2411.18613) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18613) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://cat-4d.github.io/) | Arxiv 2024 |
