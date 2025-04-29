@@ -1,4 +1,6 @@
-# Survey of Video Diffusion Models: Foundations, Implementations, and Applications [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16081)
+# Survey of Video Diffusion Models: Foundations, Implementations, and Applications
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=red)]([https://arxiv.org/abs/2501.08331](https://arxiv.org/abs/2504.16081))
 
 <p align="left">
   <div style="text-align:center; font-size: 18px;">
